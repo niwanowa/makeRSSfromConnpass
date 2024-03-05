@@ -44,21 +44,20 @@ def main(kwords):
         
         for match in found_events:
             event_html = match
-            print(event_html)
-            # date = re.search(r'title="(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z)"', event_html).group(1)
-            # title_link = re.search(r'<a class="image_link event_thumb" href="(https:\/\/[a-zA-Z0-9\-\.\/]+)" title="(.*?)">', event_html)
-            # link, title = title_link.groups()
+            date = re.search(r'title="(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z)"', event_html).group(1)
+            title = re.search(r' alt="(.*?)" />', event_html).group(1)
+            link = re.search(r'<p class="event_title"><a class="url summary" href="(https:\/\/[a-zA-Z0-9\-\.\/]+)"', event_html).group(1)
 
-            # print(f"Scraped Event: {title}, {link}")  # タイトルとリンクを出力
+            print(f"Scraped Event: {title}, {link}")  # タイトルとリンクを出力
             
-            # if link in existing_links:
-            #     continue
+            if link in existing_links:
+                continue
             
-            # if any(word in title for word in include_words):
-            #     new_item = ET.SubElement(channel, "item")
-            #     ET.SubElement(new_item, "title").text = title
-            #     ET.SubElement(new_item, "link").text = link
-            #     ET.SubElement(new_item, "pubDate").text = date
+            if any(word in title for word in include_words):
+                new_item = ET.SubElement(channel, "item")
+                ET.SubElement(new_item, "title").text = title
+                ET.SubElement(new_item, "link").text = link
+                ET.SubElement(new_item, "pubDate").text = date
 
         print(f"Found {events_found} events on page {page}.")
         
@@ -71,6 +70,10 @@ def main(kwords):
             print("No more pages found.")
             break
 
+    print(root)
+    print("=== Debug: root Start ===")
+    print(ET.tostring(root))
+    print("=== Debug: root End ===")
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
     xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
