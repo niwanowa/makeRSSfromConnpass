@@ -52,12 +52,12 @@ def main(kwords):
             
             if link in existing_links:
                 continue
-            
-            if any(word in title for word in include_words):
-                new_item = ET.SubElement(channel, "item")
-                ET.SubElement(new_item, "title").text = title
-                ET.SubElement(new_item, "link").text = link
-                ET.SubElement(new_item, "pubDate").text = date
+        
+            # RSSのitem要素を追加
+            new_item = ET.SubElement(channel, "item")
+            ET.SubElement(new_item, "title").text = title
+            ET.SubElement(new_item, "link").text = link
+            ET.SubElement(new_item, "pubDate").text = date
 
         print(f"Found {events_found} events on page {page}.")
         
