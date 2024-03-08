@@ -70,10 +70,6 @@ def main(kwords):
             print("No more pages found.")
             break
 
-    print(root)
-    print("=== Debug: root Start ===")
-    print(ET.tostring(root))
-    print("=== Debug: root End ===")
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
     xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
