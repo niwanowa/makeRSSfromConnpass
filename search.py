@@ -29,8 +29,6 @@ def main(kwords):
         ET.SubElement(channel, "description").text = description
         ET.SubElement(channel, "link").text = "https://example.com"
 
-    for page in range(1, 10):
-        print(f"Fetching page {page}...")
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers)
         html_content = response.text
@@ -40,7 +38,6 @@ def main(kwords):
         channel = root.find("channel")
         
         found_events = event_pattern.findall(html_content)
-        print(f"Found {len(found_events)} events on page {page}.")
         
         for match in found_events:
             event_html = match
@@ -58,17 +55,6 @@ def main(kwords):
             ET.SubElement(new_item, "title").text = title
             ET.SubElement(new_item, "link").text = link
             ET.SubElement(new_item, "pubDate").text = date
-
-        print(f"Found {events_found} events on page {page}.")
-        
-        #next_page = re.search(r'<li class="to_next"><a href="\?page=(\d+)">次へ&gt;&gt;<\/a><\/li>', html_content)
-        next_page = re.search(r'<a href="\?page=(\d+)">次へ&gt;&gt;<\/a>', html_content)
-
-        if next_page:
-            url = base_url + "?page=" + next_page.group(1)
-        else:
-            print("No more pages found.")
-            break
 
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
