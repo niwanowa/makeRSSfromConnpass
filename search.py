@@ -7,7 +7,7 @@ import os
 def main(kwords):
     event_pattern = re.compile(r'<div class="event_list vevent">([\s\S]*?)<\/div>\s*<\/div>')
     
-    output_file = "makeRSS_Connpass.xml"
+    output_file = f"{kwords}.xml"
     base_url = f"https://connpass.com/search/?start_from=2024%2F03%2F04&prefectures={kwords}&selectItem={kwords}&sort="
     url = base_url
 
@@ -69,5 +69,6 @@ def main(kwords):
         f.write(xml_pretty_str)
 
 if __name__ == "__main__":
-    kwords ="hokkaido"
-    main(kwords)
+    kwords =["hokkaido","online"]
+    for kword in kwords:
+        main(kword)
