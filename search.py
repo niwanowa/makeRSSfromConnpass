@@ -3,13 +3,17 @@ import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import os
+from datetime import datetime
 
 def main(kwords):
     event_pattern = re.compile(r'<div class="event_list vevent">([\s\S]*?)<\/div>\s*<\/div>')
     
     output_file = f"{kwords}.xml"
-    base_url = f"https://connpass.com/search/?start_from=2024%2F03%2F04&prefectures={kwords}&selectItem={kwords}&sort="
+    base_url = f"https://connpass.com/search/?start_from=2024%2F03%2F04&prefectures={kwords}&selectItem={kwords}&sort=3"
     url = base_url
+
+    # 現在時刻を取得
+    now = datetime.now()
 
     print(f"Starting with base URL: {base_url}")
 
@@ -53,7 +57,8 @@ def main(kwords):
         new_item = ET.SubElement(channel, "item")
         ET.SubElement(new_item, "title").text = title
         ET.SubElement(new_item, "link").text = link
-        ET.SubElement(new_item, "pubDate").text = date
+        ET.SubElement(new_item, "description").text = date
+        ET.SubElement(new_item, "pubDate").text = now.strftime("%a, %d %b %Y %H:%M:%S +0900")
 
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
