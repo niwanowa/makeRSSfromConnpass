@@ -7,7 +7,7 @@ import os
 def main(kwords):
     event_pattern = re.compile(r'<div class="recent_event_list">([\s\S]*?)<\/div>\s*<\/div>')
     
-    output_file = "makeRSS_Connpass.xml"
+    output_file = f"explore_{kwords}.xml"
     base_url = "http://connpass.com/explore/"
     url = base_url
     include_words = kwords
