@@ -3,7 +3,7 @@ import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import os
-from datetime import datetime
+import datetime
 
 def main(kwords):
     event_pattern = re.compile(r'<div class="event_list vevent">([\s\S]*?)<\/div>\s*<\/div>')
@@ -13,7 +13,7 @@ def main(kwords):
     url = base_url
 
     # 現在時刻を取得
-    now = datetime.now()
+    now = datetime.datetime.now()
 
     print(f"Starting with base URL: {base_url}")
 
@@ -42,13 +42,18 @@ def main(kwords):
     channel = root.find("channel")
     found_events = event_pattern.findall(html_content)
     
-    for match in found_events:
+
+    for match in found_events[::-1]:
         event_html = match
         date = re.search(r'title="(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z)"', event_html).group(1)
+        date = datetime.datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ")
+        # timezoneをUTCからJSTに変換
+        date = date.replace(tzinfo=datetime.timezone.utc)
+        date = date.astimezone(datetime.timezone(datetime.timedelta(hours=9)))
         title = re.search(r' alt="(.*?)" />', event_html).group(1)
         link = re.search(r'<p class="event_title"><a class="url summary" href="(https:\/\/[a-zA-Z0-9\-\.\/]+)"', event_html).group(1)
 
-        print(f"Scraped Event: {title}, {link}")  # タイトルとリンクを出力
+        print(f"Scraped Event: {title}, {link}, {date}")  # タイトルとリンクを出力
         
         if link in existing_links:
             continue
@@ -57,16 +62,13 @@ def main(kwords):
         new_item = ET.SubElement(channel, "item")
         ET.SubElement(new_item, "title").text = title
         ET.SubElement(new_item, "link").text = link
-        ET.SubElement(new_item, "description").text = date
+        ET.SubElement(new_item, "description").text = date.strftime("%a, %d %b %Y %H:%M:%S +0900")
         ET.SubElement(new_item, "pubDate").text = now.strftime("%a, %d %b %Y %H:%M:%S +0900")
 
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
     xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
 
-    print("=== Debug: XML String Start ===")
-    print(xml_str)
-    print("=== Debug: XML String End ===")
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
     xml_pretty_str = os.linesep.join([s for s in xml_pretty_str.splitlines() if s.strip()])
     
@@ -74,6 +76,7 @@ def main(kwords):
         f.write(xml_pretty_str)
 
 if __name__ == "__main__":
-    kwords =["hokkaido","online"]
+    # kwords =["hokkaido","online"]
+    kwords =["hokkaido"]
     for kword in kwords:
         main(kword)
