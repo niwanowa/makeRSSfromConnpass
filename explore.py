@@ -3,6 +3,8 @@ import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import os
+import datetime
+
 
 def main(kwords):
     event_pattern = re.compile(r'<div class="recent_event_list">([\s\S]*?)<\/div>\s*<\/div>')
@@ -42,13 +44,17 @@ def main(kwords):
         found_events = event_pattern.findall(html_content)
         print(f"Found {len(found_events)} events on page {page}.")
         
-        for match in found_events:
+        for match in found_events[::-1]:
             event_html = match
             date = re.search(r'title="(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z)"', event_html).group(1)
+            date = datetime.datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ")
+            # timezoneをUTCからJSTに変換
+            date = date.replace(tzinfo=datetime.timezone.utc)
+            date = date.astimezone(datetime.timezone(datetime.timedelta(hours=9)))
             title_link = re.search(r'<a class="image_link event_thumb" href="(https:\/\/[a-zA-Z0-9\-\.\/]+)" title="(.*?)">', event_html)
             link, title = title_link.groups()
 
-            print(f"Scraped Event: {title}, {link}")  # タイトルとリンクを出力
+            print(f"Scraped Event: {title}, {link}, {date}")  # タイトルとリンクを出力
             
             if link in existing_links:
                 continue
@@ -73,10 +79,6 @@ def main(kwords):
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
     xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
-
-    print("=== Debug: XML String Start ===")
-    print(xml_str)
-    print("=== Debug: XML String End ===")
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
     xml_pretty_str = os.linesep.join([s for s in xml_pretty_str.splitlines() if s.strip()])
     
