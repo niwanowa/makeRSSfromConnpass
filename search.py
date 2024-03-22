@@ -55,6 +55,7 @@ def main(kwords):
 
         print(f"Scraped Event: {title}, {link}, {date}")  # タイトルとリンクを出力
         
+        # すでにRSSに存在するリンクの場合はスキップ
         if link in existing_links:
             continue
     
