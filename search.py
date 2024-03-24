@@ -5,10 +5,9 @@ from xml.dom import minidom
 import os
 import datetime
 
-def main(kwords):
+def main(channel, kwords):
     event_pattern = re.compile(r'<div class="event_list vevent">([\s\S]*?)<\/div>\s*<\/div>')
     
-    output_file = f"{kwords}.xml"
     base_url = f"https://connpass.com/search/?start_from=2024%2F03%2F04&prefectures={kwords}&selectItem={kwords}&sort=3"
     url = base_url
 
@@ -16,21 +15,6 @@ def main(kwords):
     now = datetime.datetime.now()
 
     print(f"Starting with base URL: {base_url}")
-
-    existing_links = set()
-    if os.path.exists(output_file):
-        tree = ET.parse(output_file)
-        root = tree.getroot()
-        for item in root.findall(".//item/link"):
-            existing_links.add(item.text)
-    else:
-        root = ET.Element("rss", version="2.0")
-        channel = ET.SubElement(root, "channel")
-        title = "Connpassからのイベント情報"
-        description = "Connpassからのイベント情報を提供します。"
-        ET.SubElement(channel, "title").text = title
-        ET.SubElement(channel, "description").text = description
-        ET.SubElement(channel, "link").text = "https://example.com"
 
     # スクレイピングを実行
     headers = {'User-Agent': 'Mozilla/5.0'}
@@ -72,12 +56,35 @@ def main(kwords):
 
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
     xml_pretty_str = os.linesep.join([s for s in xml_pretty_str.splitlines() if s.strip()])
+
+    return xml_pretty_str
     
-    with open(output_file, "w") as f:
-        f.write(xml_pretty_str)
 
 if __name__ == "__main__":
     # kwords =["hokkaido","online"]
     kwords =["hokkaido"]
+
     for kword in kwords:
-        main(kword)
+        # RSSファイルの読み込み
+        output_file = f"{kword}.xml"
+        existing_links = set()
+        if os.path.exists(output_file):
+            tree = ET.parse(output_file)
+            root = tree.getroot()
+            for item in root.findall(".//item/link"):
+                existing_links.add(item.text)
+        else:
+            root = ET.Element("rss", version="2.0")
+            channel = ET.SubElement(root, "channel")
+            title = "Connpassからのイベント情報"
+            description = "Connpassからのイベント情報を提供します。"
+            ET.SubElement(channel, "title").text = title
+            ET.SubElement(channel, "description").text = description
+            ET.SubElement(channel, "link").text = "https://example.com"
+
+        
+        xml_pretty_str = main(root, kword)
+
+        with open(output_file, "w") as f:
+            f.write(xml_pretty_str)
+    
