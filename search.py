@@ -5,7 +5,7 @@ from xml.dom import minidom
 import os
 import datetime
 
-def main(channel, kwords):
+def search(channel, kwords):
     event_pattern = re.compile(r'<div class="event_list vevent">([\s\S]*?)<\/div>\s*<\/div>')
     
     base_url = f"https://connpass.com/search/?start_from=2024%2F03%2F04&prefectures={kwords}&selectItem={kwords}&sort=3"
@@ -83,7 +83,7 @@ if __name__ == "__main__":
             ET.SubElement(channel, "link").text = "https://example.com"
 
         
-        xml_pretty_str = main(root, kword)
+        xml_pretty_str = search(root, kword)
 
         with open(output_file, "w") as f:
             f.write(xml_pretty_str)
