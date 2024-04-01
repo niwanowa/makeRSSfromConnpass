@@ -6,7 +6,7 @@ import os
 import datetime
 
 
-def main(kwords):
+def explore(kwords):
     event_pattern = re.compile(r'<div class="recent_event_list">([\s\S]*?)<\/div>\s*<\/div>')
     
     output_file = f"explore_{kwords}.xml"
@@ -88,4 +88,4 @@ def main(kwords):
 
 if __name__ == "__main__":
     kwords = ["Hokkaido", "北海道"]
-    main(kwords)
+    explore(kwords)
