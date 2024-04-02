@@ -6,30 +6,15 @@ import os
 import datetime
 
 
-def explore(kwords):
+def explore(channel, kwords):
     event_pattern = re.compile(r'<div class="recent_event_list">([\s\S]*?)<\/div>\s*<\/div>')
     
-    output_file = f"explore_{kwords}.xml"
+    
     base_url = "http://connpass.com/explore/"
     url = base_url
     include_words = kwords
 
     print(f"Starting with base URL: {base_url}")
-
-    existing_links = set()
-    if os.path.exists(output_file):
-        tree = ET.parse(output_file)
-        root = tree.getroot()
-        for item in root.findall(".//item/link"):
-            existing_links.add(item.text)
-    else:
-        root = ET.Element("rss", version="2.0")
-        channel = ET.SubElement(root, "channel")
-        title = "Connpassからのイベント情報"
-        description = "Connpassからのイベント情報を提供します。"
-        ET.SubElement(channel, "title").text = title
-        ET.SubElement(channel, "description").text = description
-        ET.SubElement(channel, "link").text = "https://example.com"
 
     for page in range(1, 10):
         print(f"Fetching page {page}...")
@@ -88,4 +73,21 @@ def explore(kwords):
 
 if __name__ == "__main__":
     kwords = ["Hokkaido", "北海道"]
-    explore(kwords)
+    output_file = f"explore_{kwords}.xml"
+
+    existing_links = set()
+    if os.path.exists(output_file):
+        tree = ET.parse(output_file)
+        root = tree.getroot()
+        for item in root.findall(".//item/link"):
+            existing_links.add(item.text)
+    else:
+        root = ET.Element("rss", version="2.0")
+        channel = ET.SubElement(root, "channel")
+        title = "Connpassからのイベント情報"
+        description = "Connpassからのイベント情報を提供します。"
+        ET.SubElement(channel, "title").text = title
+        ET.SubElement(channel, "description").text = description
+        ET.SubElement(channel, "link").text = "https://example.com"
+
+    explore(root, kwords)
