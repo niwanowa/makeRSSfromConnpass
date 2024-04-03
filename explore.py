@@ -14,6 +14,11 @@ def explore(channel, kwords):
     url = base_url
     include_words = kwords
 
+    # 既存のリンクを取得
+    existing_links = set()
+    for item in root.findall(".//item/link"):
+        existing_links.add(item.text)
+
     print(f"Starting with base URL: {base_url}")
 
     for page in range(1, 10):
@@ -75,12 +80,9 @@ if __name__ == "__main__":
     kwords = ["Hokkaido", "北海道"]
     output_file = f"explore_{kwords}.xml"
 
-    existing_links = set()
     if os.path.exists(output_file):
         tree = ET.parse(output_file)
         root = tree.getroot()
-        for item in root.findall(".//item/link"):
-            existing_links.add(item.text)
     else:
         root = ET.Element("rss", version="2.0")
         channel = ET.SubElement(root, "channel")
