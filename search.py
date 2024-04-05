@@ -14,6 +14,11 @@ def search(channel, kwords):
     # 現在時刻を取得
     now = datetime.datetime.now()
 
+    # 既存のリンクを取得
+    existing_links = set()
+    for item in root.findall(".//item/link"):
+        existing_links.add(item.text)
+
     print(f"Starting with base URL: {base_url}")
 
     # スクレイピングを実行
