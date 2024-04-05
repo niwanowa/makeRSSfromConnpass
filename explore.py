@@ -72,8 +72,8 @@ def explore(channel, kwords):
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
     xml_pretty_str = os.linesep.join([s for s in xml_pretty_str.splitlines() if s.strip()])
     
-    with open(output_file, "w") as f:
-        f.write(xml_pretty_str)
+    return xml_pretty_str
+
 
 if __name__ == "__main__":
     kwords = ["Hokkaido", "北海道"]
@@ -91,4 +91,7 @@ if __name__ == "__main__":
         ET.SubElement(channel, "description").text = description
         ET.SubElement(channel, "link").text = "https://example.com"
 
-    explore(root, kwords)
+    xml_pretty_str = explore(root, kwords)
+
+    with open(output_file, "w") as f:
+        f.write(xml_pretty_str)
