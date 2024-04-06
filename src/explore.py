@@ -8,8 +8,7 @@ import datetime
 
 def explore(channel, kwords):
     event_pattern = re.compile(r'<div class="recent_event_list">([\s\S]*?)<\/div>\s*<\/div>')
-    
-    
+
     base_url = "http://connpass.com/explore/"
     url = base_url
     include_words = kwords
@@ -23,17 +22,17 @@ def explore(channel, kwords):
 
     for page in range(1, 10):
         print(f"Fetching page {page}...")
-        headers = {'User-Agent': 'Mozilla/5.0'}
+        headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(url, headers=headers)
         html_content = response.text
         print(f"Response status code: {response.status_code}")
-        
+
         events_found = 0
         channel = root.find("channel")
-        
+
         found_events = event_pattern.findall(html_content)
         print(f"Found {len(found_events)} events on page {page}.")
-        
+
         for match in found_events[::-1]:
             event_html = match
             date = re.search(r'title="(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z)"', event_html).group(1)
@@ -41,15 +40,17 @@ def explore(channel, kwords):
             # timezoneをUTCからJSTに変換
             date = date.replace(tzinfo=datetime.timezone.utc)
             date = date.astimezone(datetime.timezone(datetime.timedelta(hours=9)))
-            title_link = re.search(r'<a class="image_link event_thumb" href="(https:\/\/[a-zA-Z0-9\-\.\/]+)" title="(.*?)">', event_html)
+            title_link = re.search(
+                r'<a class="image_link event_thumb" href="(https:\/\/[a-zA-Z0-9\-\.\/]+)" title="(.*?)">', event_html
+            )
             link, title = title_link.groups()
 
             print(f"Scraped Event: {title}, {link}, {date}")  # タイトルとリンクを出力
-            
+
             # すでにRSSに存在するリンクの場合はスキップ
             if link in existing_links:
                 continue
-            
+
             if any(word in title for word in include_words):
                 new_item = ET.SubElement(channel, "item")
                 ET.SubElement(new_item, "title").text = title
@@ -57,7 +58,7 @@ def explore(channel, kwords):
                 ET.SubElement(new_item, "pubDate").text = date
 
         print(f"Found {events_found} events on page {page}.")
-        
+
         next_page = re.search(r'<a href="\?page=(\d+)">次へ&gt;&gt;<\/a>', html_content)
 
         if next_page:
@@ -68,10 +69,10 @@ def explore(channel, kwords):
 
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
-    xml_str = re.sub(u'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', xml_str.decode()).encode()
+    xml_str = re.sub("[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]", "", xml_str.decode()).encode()
     xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
     xml_pretty_str = os.linesep.join([s for s in xml_pretty_str.splitlines() if s.strip()])
-    
+
     return xml_pretty_str
 
 
