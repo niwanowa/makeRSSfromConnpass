@@ -13,6 +13,9 @@ def explore(channel, kwords):
     url = base_url
     include_words = kwords
 
+    # 現在時刻を取得
+    now = datetime.datetime.now()
+
     # 既存のリンクを取得
     existing_links = set()
     for item in root.findall(".//item/link"):
@@ -55,7 +58,8 @@ def explore(channel, kwords):
                 new_item = ET.SubElement(channel, "item")
                 ET.SubElement(new_item, "title").text = title
                 ET.SubElement(new_item, "link").text = link
-                ET.SubElement(new_item, "pubDate").text = date
+                ET.SubElement(new_item, "description").text = date.strftime("%a, %d %b %Y %H:%M:%S +0900")
+                ET.SubElement(new_item, "pubDate").text = now.strftime("%a, %d %b %Y %H:%M:%S +0900")
 
         print(f"Found {events_found} events on page {page}.")
 
