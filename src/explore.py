@@ -82,7 +82,7 @@ def explore(channel, kwords):
 
 if __name__ == "__main__":
     kwords = ["Hokkaido", "北海道"]
-    output_file = f"explore_{kwords}.xml"
+    output_file = f"./outputs/explore_{kwords}.xml"
 
     if os.path.exists(output_file):
         tree = ET.parse(output_file)
