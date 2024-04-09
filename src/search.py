@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
     for kword in kwords:
         # RSSファイルの読み込み
-        output_file = f"{kword}.xml"
+        output_file = f"./outputs/{kword}.xml"
         existing_links = set()
         if os.path.exists(output_file):
             tree = ET.parse(output_file)
