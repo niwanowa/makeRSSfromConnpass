@@ -24,5 +24,10 @@ jobs:
           key: venv-${{ hashFiles('poetry.lock') }}
       - name: Install the project dependencies
         run: poetry install
-      - name: Run the automated tests (for example)
+      - name: poetry run
         run: poetry run python ./src/search.py
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./outputs
