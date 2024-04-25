@@ -1,6 +1,6 @@
 name: Run RSS Generator
 'on':
-  workflow_dispatch: null
+  workflow_dispatch:
   schedule:
     - cron: 0 * * * *
 jobs:
