@@ -12,6 +12,8 @@ jobs:
         uses: actions/setup-python@v4
       - name: Install poetry
         uses: abatilo/actions-poetry@v2
+      - name: set github config
+        run: git config --global user.email "action@github.com"
       - name: Setup a local virtual environment (if no poetry.toml file)
         run: |
           poetry config virtualenvs.create true --local
@@ -25,6 +27,11 @@ jobs:
         run: poetry install
       - name: poetry run
         run: poetry run python ./src/search.py
+      - name: Commit and push changes
+        run: |
+          git add ./outputs/hokkaido.xml
+          git commit -m "Update RSS feed"
+          git push
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
