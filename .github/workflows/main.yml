@@ -29,7 +29,7 @@ jobs:
         run: poetry run python ./src/search.py
       - name: Commit and push changes
         run: |
-          git add ./outputs/hokkaido.xml
+          git add -f ./outputs/hokkaido.xml
           git commit -m "Update RSS feed"
           git push
       - name: Deploy
