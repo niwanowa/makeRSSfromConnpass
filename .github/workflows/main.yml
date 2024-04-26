@@ -29,11 +29,15 @@ jobs:
         run: poetry install
       - name: poetry run
         run: poetry run python ./src/search.py
-      - name: Commit and push changes
+      - name: check diff
         run: |
           git add -f ./outputs/hokkaido.xml
+          echo "::set-output name=count::$(git diff --name-only | wc -l)"
+      - name: Commit and push changes
+        run: |
           git commit -m "Update RSS feed"
           git push
+        if: steps.changes.outputs.count > 0
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
