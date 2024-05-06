@@ -32,9 +32,9 @@ jobs:
       - name: check diff
         run: |
           echo "::set-output name=count::$(git diff --name-only | wc -l)"
-          git add -f ./outputs/hokkaido.xml
       - name: Commit and push changes
         run: |
+          git add -f ./outputs/hokkaido.xml
           git commit -m "Update RSS feed"
           git push
         if: steps.changes.outputs.count > 0
