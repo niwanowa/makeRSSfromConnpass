@@ -43,4 +43,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./outputs
-        if: steps.changes.outputs.count > 0
