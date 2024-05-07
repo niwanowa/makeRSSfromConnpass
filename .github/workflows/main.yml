@@ -38,7 +38,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git add -f ./outputs/hokkaido.xml
-          git commit -m "Update RSS feed"
+          git commit -m "[bot]Update RSS feed"
           git push
         if: steps.diff.outcome == 'failure'
       - name: Deploy
