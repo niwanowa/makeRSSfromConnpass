@@ -30,16 +30,19 @@ jobs:
       - name: poetry run
         run: poetry run python ./src/search.py
       - name: check diff
+        id: diff
         run: |
-          echo "::set-output name=count::$(git diff --name-only | wc -l)"
+          git add -N .
+          git diff --name-only --exit-code
       - name: Commit and push changes
         run: |
           git add -f ./outputs/hokkaido.xml
           git commit -m "Update RSS feed"
           git push
-        if: steps.changes.outputs.count > 0
+        if: steps.diff.outcome == 'failure'
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./outputs
+        if: steps.diff.outcome == 'failure'
