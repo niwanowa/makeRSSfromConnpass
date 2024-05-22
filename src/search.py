@@ -68,7 +68,7 @@ def search(channel, kwords):
 
 
 if __name__ == "__main__":
-    kwords = ["hokkaido", "aomori", "online"]
+    kwords = ["hokkaido", "aomori", "iwate", "online"]
 
     for kword in kwords:
         # RSSファイルの読み込み
