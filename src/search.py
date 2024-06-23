@@ -81,6 +81,7 @@ if __name__ == "__main__":
         "gunma",
         "saitama",
         "chiba",
+        "tokyo",
         "online",
     ]
 
