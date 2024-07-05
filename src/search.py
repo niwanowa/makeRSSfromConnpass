@@ -88,6 +88,7 @@ if __name__ == "__main__":
         "nagano",
         "toyama",
         "ishikawa",
+        "fukui",
         "online",
     ]
 
