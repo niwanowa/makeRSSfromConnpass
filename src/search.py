@@ -90,6 +90,7 @@ if __name__ == "__main__":
         "ishikawa",
         "fukui",
         "gifu",
+        "shizuoka",
         "online",
     ]
 
