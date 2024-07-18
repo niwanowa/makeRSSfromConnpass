@@ -96,6 +96,7 @@ if __name__ == "__main__":
         "shiga",
         "kyoto",
         "osaka",
+        "hyogo",
         "online",
     ]
 
