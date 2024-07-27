@@ -99,6 +99,7 @@ if __name__ == "__main__":
         "nara",
         "hyogo",
         "wakayama",
+        "tottori",
         "online",
     ]
 
