@@ -101,6 +101,7 @@ if __name__ == "__main__":
         "wakayama",
         "shimane",
         "tottori",
+        "okayama",
         "online",
     ]
 
