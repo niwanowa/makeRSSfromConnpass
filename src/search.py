@@ -102,6 +102,7 @@ if __name__ == "__main__":
         "shimane",
         "tottori",
         "okayama",
+        "hiroshima",
         "online",
     ]
 
