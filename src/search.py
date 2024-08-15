@@ -106,6 +106,7 @@ if __name__ == "__main__":
         "yamaguchi",
         "tokushima",
         "kagawa",
+        "ehime",
         "online",
     ]
 
