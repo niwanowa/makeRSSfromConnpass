@@ -110,6 +110,7 @@ if __name__ == "__main__":
         "kochi",
         "fukuoka",
         "saga",
+        "nagasaki",
         "online",
     ]
 
