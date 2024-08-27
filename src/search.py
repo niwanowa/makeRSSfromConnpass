@@ -112,6 +112,7 @@ if __name__ == "__main__":
         "saga",
         "nagasaki",
         "kumamoto",
+        "oita",
         "online",
     ]
 
