@@ -113,6 +113,7 @@ if __name__ == "__main__":
         "nagasaki",
         "kumamoto",
         "oita",
+        "miyazaki",
         "online",
     ]
 
