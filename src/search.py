@@ -114,6 +114,7 @@ if __name__ == "__main__":
         "kumamoto",
         "oita",
         "miyazaki",
+        "kagoshima",
         "online",
     ]
 
