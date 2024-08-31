@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>7/27 OSC京都 交流会</title>
+      <link>https://ospn.connpass.com/event/316583/</link>
+      <description>Sat, 27 Jul 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kyoto.なんか #6</title>
+      <link>https://kyoto-nanka.connpass.com/event/324686/</link>
+      <description>Sat, 24 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>【京都ゆる会】一緒に作業しませんか？ #21</title>
+      <link>https://kyotoprogramminglab-connpassbranch.connpass.com/event/324682/</link>
+      <description>Sat, 03 Aug 2024 11:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>【9/8】第7回 CoderDojo宇治</title>
+      <link>https://coderdojo-uji.connpass.com/event/325625/</link>
+      <description>Sun, 08 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>関西モバイルアプリ研究会A #4</title>
+      <link>https://kanmoba.connpass.com/event/325158/</link>
+      <description>Wed, 31 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>#kosen10s LT 19 @ Kyoto</title>
+      <link>https://kosen10s.connpass.com/event/324473/</link>
+      <description>Sat, 07 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>良いコードの書き方勉強会 in 京都</title>
+      <link>https://kansai-web-app-dev.connpass.com/event/325588/</link>
+      <description>Sat, 17 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>KSDUPC（京都産業大学・同志社大学プログラミングコンテスト）</title>
+      <link>https://ioor.connpass.com/event/324201/</link>
+      <description>Sun, 15 Sep 2024 12:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>みやこもくもく会#32 with Digital Nomad Kyoto @佛現寺</title>
+      <link>https://mit.connpass.com/event/325940/</link>
+      <description>Sat, 31 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kyoto.Mokumoku Vol.27</title>
+      <link>https://kyoto-mokumoku.connpass.com/event/326362/</link>
+      <description>Thu, 08 Aug 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kyoto.Mokumoku Vol.28</title>
+      <link>https://kyoto-mokumoku.connpass.com/event/326365/</link>
+      <description>Thu, 22 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オフライン】Kyoto.rb Meetup 平日夜はてなオフィス開催だよ</title>
+      <link>https://kyotorb.connpass.com/event/326659/</link>
+      <description>Wed, 14 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>みやこもくもく会#33 @たか橋（元お茶屋さん）</title>
+      <link>https://mit.connpass.com/event/326923/</link>
+      <description>Sat, 10 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>みやこもくもく会#34 @たか橋（元お茶屋さん）</title>
+      <link>https://mit.connpass.com/event/327956/</link>
+      <description>Sun, 22 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オフライン】Kyoto.rb Meetup マネフォ京都オフィスでやるよ</title>
+      <link>https://kyotorb.connpass.com/event/328256/</link>
+      <description>Sun, 29 Sep 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI 時代のソフトウェアエンジニアリングと教育 @ 京都大学</title>
+      <link>https://gdgkwansai.connpass.com/event/327195/</link>
+      <description>Sat, 21 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kyoto.Mokumoku Vol.29</title>
+      <link>https://kyoto-mokumoku.connpass.com/event/328900/</link>
+      <description>Thu, 19 Sep 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kyoto.Mokumoku Vol.30</title>
+      <link>https://kyoto-mokumoku.connpass.com/event/328901/</link>
+      <description>Thu, 03 Oct 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>アニメから得た学びを発表会 in 関西</title>
+      <link>https://engineers-anime.connpass.com/event/328203/</link>
+      <description>Tue, 01 Oct 2024 18:45:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>みやこもくもく会#32 with Digital Nomad Kyoto @佛現寺</title>
+      <link>https://mit.connpass.com/event/329694/</link>
+      <description>Sat, 21 Sep 2024 11:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:07 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

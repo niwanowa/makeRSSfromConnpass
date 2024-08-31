@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>JBUG佐賀#0 プロジェクト管理のテクニック・ノウハウを学び合おう</title>
+      <link>https://jbug.connpass.com/event/306428/</link>
+      <description>Tue, 19 Mar 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:28 +0900</pubDate>
+    </item>
+    <item>
+      <title>＜佐賀現地開催＞日本武尊SP〜栄の国版〜 with CoderDojo久留米</title>
+      <link>https://jawsug-saga.connpass.com/event/316251/</link>
+      <description>Sat, 03 Aug 2024 11:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:28 +0900</pubDate>
+    </item>
+    <item>
+      <title>QUNOG 29 Meeting (佐賀県佐賀市)</title>
+      <link>https://qunog.connpass.com/event/320803/</link>
+      <description>Fri, 19 Jul 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:28 +0900</pubDate>
+    </item>
+    <item>
+      <title>QUNOG29 懇親会</title>
+      <link>https://qunog.connpass.com/event/324812/</link>
+      <description>Fri, 19 Jul 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:28 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

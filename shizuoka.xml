@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>7/28 浜松もくもく会</title>
+      <link>https://connpass.com/event/325353/</link>
+      <description>Sun, 28 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第6回 InfiniStudy：静岡中部のITエンジニア勉強会</title>
+      <link>https://infini-study.connpass.com/event/325409/</link>
+      <description>Fri, 26 Jul 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>ノーコードツールハッカソン in 伊豆</title>
+      <link>https://ncpa-rrc.connpass.com/event/325106/</link>
+      <description>Mon, 19 Aug 2024 00:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>PyCon mini Shizuoka 2024【現地開催】</title>
+      <link>https://pycon-shizu.connpass.com/event/324112/</link>
+      <description>Sat, 31 Aug 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>PyCon mini Shizuoka 2024 懇親会</title>
+      <link>https://pycon-shizu.connpass.com/event/325688/</link>
+      <description>Sat, 31 Aug 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第15回 CoderDojo磐田</title>
+      <link>https://coderdojo-iwata.connpass.com/event/325877/</link>
+      <description>Sun, 18 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>kintone Café 浜松 Vol.44「生存確認の会」(と称したもくもく会)</title>
+      <link>https://kintonecafe-hamamatsu.connpass.com/event/325012/</link>
+      <description>Fri, 23 Aug 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>(ゆるIT勉強会浜松)土曜勉強会+飲み会</title>
+      <link>https://progdojo-hmmt.connpass.com/event/326607/</link>
+      <description>Sat, 03 Aug 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>Unagi.py 勉強会59枚目 (Python勉強会in浜松市)</title>
+      <link>https://unagi-py.connpass.com/event/326955/</link>
+      <description>Sat, 03 Aug 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>【満員御礼】第2回 サイバー寺子屋(ホームページ作成プログラミング教室)</title>
+      <link>https://connpass.com/event/326696/</link>
+      <description>Sun, 04 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>56回CoderDojo静岡</title>
+      <link>https://coderdojo-shizuoka.connpass.com/event/327161/</link>
+      <description>Sat, 24 Aug 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第3回 サイバー寺子屋(浜松市 無料プログラミング教室)</title>
+      <link>https://connpass.com/event/327426/</link>
+      <description>Sun, 25 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>Mishima.syk #21</title>
+      <link>https://connpass.com/event/327459/</link>
+      <description>Sat, 05 Oct 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第35回 CoderDojo 三島/沼津</title>
+      <link>https://coderdojo-mn.connpass.com/event/327592/</link>
+      <description>Sun, 08 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本Androidの会浜松支部 第157回ミーティング</title>
+      <link>https://jaghama.connpass.com/event/327600/</link>
+      <description>Mon, 12 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>DNS 温泉 10</title>
+      <link>https://dnsonsen.connpass.com/event/327627/</link>
+      <description>Sat, 05 Oct 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第16回 CoderDojo磐田</title>
+      <link>https://coderdojo-iwata.connpass.com/event/328459/</link>
+      <description>Sat, 07 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第100回CoderDojo浜松（2024年9月分）</title>
+      <link>https://coderdojo-hamamatsu.connpass.com/event/328461/</link>
+      <description>Sun, 29 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第8回 Web Developers Hamamatsu</title>
+      <link>https://web-developers-hamamatsu.connpass.com/event/328995/</link>
+      <description>Fri, 23 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>第9回 Web Developers Hamamatsu</title>
+      <link>https://web-developers-hamamatsu.connpass.com/event/329548/</link>
+      <description>Thu, 29 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:02 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

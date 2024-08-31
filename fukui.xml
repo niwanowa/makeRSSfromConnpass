@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>ふくもく会 その110 〜創造とフリー勉〜</title>
+      <link>https://fukumoku.connpass.com/event/313846/</link>
+      <description>Sat, 23 Mar 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>ふくもく会 その111 〜やる気爆発ラーンプレイラーン〜</title>
+      <link>https://fukumoku.connpass.com/event/316442/</link>
+      <description>Sat, 20 Apr 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>ふくもく会 その112 〜ヤルゾナ3リロード〜</title>
+      <link>https://fukumoku.connpass.com/event/319840/</link>
+      <description>Sun, 26 May 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>ふくもく会 その113 〜ふくもくもくもくもくたんたん〜</title>
+      <link>https://fukumoku.connpass.com/event/323344/</link>
+      <description>Sat, 29 Jun 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>3D スキャン、HOVER AIR、xR体験会 in 鯖江</title>
+      <link>https://connpass.com/event/323392/</link>
+      <description>Tue, 02 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>fukui.rb #12 もくもく会</title>
+      <link>https://fukuirb.connpass.com/event/323769/</link>
+      <description>Sat, 20 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>高専宇宙カンファレンスin福井</title>
+      <link>https://connpass.com/event/324347/</link>
+      <description>Fri, 27 Dec 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:59 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

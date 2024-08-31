@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>石川・金沢IoTビジネス共創ラボ×第2回XRフェア</title>
+      <link>https://iotbizlabo.connpass.com/event/310602/</link>
+      <description>Fri, 08 Mar 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>石川・金沢IoTビジネス共創ラボ 第7回勉強会（北陸新幹線金沢-敦賀開業記念）</title>
+      <link>https://iotbizlabo.connpass.com/event/310604/</link>
+      <description>Fri, 22 Mar 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Meetup Kanazawa #2 ゼロトラストハンズオン</title>
+      <link>https://cfm-cts.connpass.com/event/314087/</link>
+      <description>Tue, 07 May 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>SORACOM with M5Stack ハンズオン in マルツ金沢</title>
+      <link>https://connpass.com/event/313429/</link>
+      <description>Sat, 06 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>JBUG金沢#0 業務の見える化でチームの仕事を効率化しよう！</title>
+      <link>https://jbug.connpass.com/event/318097/</link>
+      <description>Fri, 31 May 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>らびやんとコードレビューしよう会</title>
+      <link>https://m5stack.connpass.com/event/318789/</link>
+      <description>Sat, 22 Jun 2024 22:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI 時代のプロトタイピング「デザインスプリント」 in 金沢工大</title>
+      <link>https://gdgkwansai.connpass.com/event/316372/</link>
+      <description>Sat, 29 Jun 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kanazawa.R #1</title>
+      <link>https://kanazawar.connpass.com/event/320817/</link>
+      <description>Sat, 29 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>スクラムフェス金沢2024 - 金沢市街・南町サテライト</title>
+      <link>https://shinagile.connpass.com/event/323575/</link>
+      <description>Fri, 19 Jul 2024 16:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>FlutterKaigi mini #2 @Ishikawa</title>
+      <link>https://flutterkaigi.connpass.com/event/325469/</link>
+      <description>Sat, 14 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>NICT北陸連携サロン　第9回　2024/8/29(木)</title>
+      <link>https://nict-hokuriku-renkei-salon.connpass.com/event/325635/</link>
+      <description>Thu, 29 Aug 2024 17:50:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>202409 第6次能登半島災害支援作戦 OperationCalBurn + NT富山</title>
+      <link>https://openforce.connpass.com/event/329132/</link>
+      <description>Fri, 13 Sep 2024 00:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:05:58 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

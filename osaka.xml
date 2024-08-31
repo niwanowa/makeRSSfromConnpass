@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>9/7土. 大阪IT系もくもく会、プログラミング初心者相談の日 in 大阪天満橋コーボック</title>
+      <link>https://sakuraclubosaka.connpass.com/event/328846/</link>
+      <description>Sat, 07 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>明日からできるDXスキル『スプレッドシートとGASスキル』</title>
+      <link>https://connpass.com/event/328850/</link>
+      <description>Thu, 05 Sep 2024 00:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>【大阪開催 | 生成AI】人的対応をAIで圧倒的効率化 - PABot活用Seminar - #1</title>
+      <link>https://skygrid.connpass.com/event/328729/</link>
+      <description>Tue, 03 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>データ分析 もくもく会 #03 @ 大阪・京橋</title>
+      <link>https://datascience-mokumoku-kyobashi.connpass.com/event/328905/</link>
+      <description>Sat, 31 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>学びを楽しむ! エンジニアによる勉強法発表会・勉強法の勉強会 #4 in 大阪</title>
+      <link>https://yumemi.connpass.com/event/328527/</link>
+      <description>Mon, 30 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>データ分析 もくもく会 #04 @ 大阪・京橋</title>
+      <link>https://datascience-mokumoku-kyobashi.connpass.com/event/329035/</link>
+      <description>Mon, 02 Sep 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>IO Cloudを使った分散型GPUクラウドハンズオン体験！クラスタ構築から実践まで</title>
+      <link>https://osakapython.connpass.com/event/328946/</link>
+      <description>Fri, 30 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>【なんでもLT&amp;amp;交流会】GENKI.dev ~借り暮らしのアリLT~ @大阪</title>
+      <link>https://genki-dev.connpass.com/event/328100/</link>
+      <description>Sat, 21 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>『Pythonによる気象・気候データ解析Ⅰ』読書会#2</title>
+      <link>https://soleildatadojo.connpass.com/event/329127/</link>
+      <description>Fri, 06 Sep 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>第128回数値解析技術勉強会</title>
+      <link>https://cae.connpass.com/event/329164/</link>
+      <description>Mon, 26 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>【限定15名】関西エンジニア向けLT交流会</title>
+      <link>https://kansai-engineer-ltmeetup.connpass.com/event/329142/</link>
+      <description>Sat, 28 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>データ分析 もくもく会 #08 @ 大阪・京橋</title>
+      <link>https://datascience-mokumoku-kyobashi.connpass.com/event/329307/</link>
+      <description>Sat, 26 Oct 2024 17:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>JEDAI in Osaka 2024 (ハイブリッド開催)</title>
+      <link>https://jedai.connpass.com/event/329313/</link>
+      <description>Fri, 01 Nov 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>OSAKA ENGINEER NIGHT Vol.4 ~やっぱLTやねん~</title>
+      <link>https://nextribe-dev.connpass.com/event/328633/</link>
+      <description>Fri, 11 Oct 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>【大阪開催】きみのまほろばー 其の四 〜kintoneお悩み相談会 みんなで解決のヒントを探そう！〜</title>
+      <link>https://kimino-mahoro-bar.connpass.com/event/328831/</link>
+      <description>Wed, 18 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>【大阪心斎橋開催】第二回 監視ソフトウェア勉強会</title>
+      <link>https://monitoring-software.connpass.com/event/329436/</link>
+      <description>Wed, 28 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>Elasticsearch Community in Osaka</title>
+      <link>https://connpass.com/event/328171/</link>
+      <description>Wed, 25 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>【IT系・LT会＆交流会】ココカラ勉強会 @大阪</title>
+      <link>https://kokokara.connpass.com/event/329656/</link>
+      <description>Sat, 28 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>データ利活用やってみよう！ハッカソン2024 キックオフ</title>
+      <link>https://enjoy-pda.connpass.com/event/327540/</link>
+      <description>Sat, 12 Oct 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>プロダクト開発meetup関西#6</title>
+      <link>https://product-dev-meetup-kansai.connpass.com/event/329755/</link>
+      <description>Fri, 27 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:09 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

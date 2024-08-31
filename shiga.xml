@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>立命館大学競技プログラミング合宿2024</title>
+      <link>https://rippro.connpass.com/event/309923/</link>
+      <description>Sat, 23 Mar 2024 11:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>C言語勉強会（BizBaseコラボ２１滋賀）</title>
+      <link>https://hitokado-tech.connpass.com/event/312818/</link>
+      <description>Thu, 14 Mar 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>近江八幡 Apple Vision Pro 体験会</title>
+      <link>https://connpass.com/event/313706/</link>
+      <description>Sun, 21 Apr 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>瀬田の神社をデジタルアーカイブ！</title>
+      <link>https://countries-romantic.connpass.com/event/322594/</link>
+      <description>Mon, 15 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>医工連携カンファレンスin滋賀</title>
+      <link>https://connpass.com/event/319999/</link>
+      <description>Sun, 04 May 2025 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@石山駅前の喫茶店orマクド（日曜日朝）</title>
+      <link>https://hitokado-tech.connpass.com/event/325045/</link>
+      <description>Sun, 07 Jul 2024 07:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:06 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

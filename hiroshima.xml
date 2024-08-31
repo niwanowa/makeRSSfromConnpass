@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>オープンセミナー2024@広島</title>
+      <link>https://osh.connpass.com/event/324736/</link>
+      <description>Sat, 09 Nov 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>Campsもくもく会（10月）</title>
+      <link>https://hiroshima-camps.connpass.com/event/324885/</link>
+      <description>Sat, 26 Oct 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>IT系の濃ゆい話をする会#17</title>
+      <link>https://it-deep-talk.connpass.com/event/325127/</link>
+      <description>Thu, 25 Jul 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>おもにクラウドの話してます - 広島 #3</title>
+      <link>https://omoni-cloud.connpass.com/event/324822/</link>
+      <description>Fri, 16 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>9/29(日) オープンソースカンファレンス2024 Hiroshima</title>
+      <link>https://ospn.connpass.com/event/324970/</link>
+      <description>Sun, 29 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>kintone Café 広島 Vol.29@福山</title>
+      <link>https://kintone-cafe-hiroshima.connpass.com/event/326122/</link>
+      <description>Sat, 21 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>すごい広島 ITもくもく会 583</title>
+      <link>https://great-h.connpass.com/event/326163/</link>
+      <description>Wed, 24 Jul 2024 19:10:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>jbug広島#14 〜1人で解けないパズルは皆で解こうの会〜</title>
+      <link>https://jbug.connpass.com/event/325704/</link>
+      <description>Sat, 07 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>【延期】Power Appsでハッカソンしたいけぇ#8</title>
+      <link>https://jpaug-hiroshima.connpass.com/event/326588/</link>
+      <description>Sat, 31 Aug 2024 11:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>すごい広島 ITもくもく会 585</title>
+      <link>https://great-h.connpass.com/event/327466/</link>
+      <description>Wed, 07 Aug 2024 19:10:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>FukuyamaからLT 2024.08</title>
+      <link>https://fukuyama-dev.connpass.com/event/327601/</link>
+      <description>Sun, 18 Aug 2024 17:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>すごい広島 ITもくもく会 586</title>
+      <link>https://great-h.connpass.com/event/328096/</link>
+      <description>Wed, 14 Aug 2024 19:10:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>すごい広島 IT初心者の会 [89] オンライン</title>
+      <link>https://pycon-hiroshima.connpass.com/event/328375/</link>
+      <description>Wed, 28 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>Campsもくもく会（11月）</title>
+      <link>https://hiroshima-camps.connpass.com/event/328617/</link>
+      <description>Sat, 02 Nov 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>【HiBiS】最新Techセミナー「生成AIによるビジネス活用術」</title>
+      <link>https://hibis.connpass.com/event/327616/</link>
+      <description>Mon, 09 Sep 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>IT系の濃ゆい話をする会#18</title>
+      <link>https://it-deep-talk.connpass.com/event/328742/</link>
+      <description>Thu, 29 Aug 2024 20:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>すごい広島 ITもくもく会 587</title>
+      <link>https://great-h.connpass.com/event/328767/</link>
+      <description>Wed, 21 Aug 2024 19:10:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>ゲームジャム高梁2024 事前勉強会</title>
+      <link>https://hirouni.connpass.com/event/326500/</link>
+      <description>Sun, 22 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>NEMTUS勉強会 #13 in 広島 Symbolブロックチェーン技術勉強会・AMA</title>
+      <link>https://nemtus.connpass.com/event/329137/</link>
+      <description>Sat, 28 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+    <item>
+      <title>第70回 PCNひろしま こどもプログラミング教室</title>
+      <link>https://pcn-hiroshima.connpass.com/event/329390/</link>
+      <description>Sat, 21 Sep 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:18 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>kintone Café 香川 Vol.12</title>
+      <link>https://kintonecafe-kagawa.connpass.com/event/312690/</link>
+      <description>Sat, 11 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>えれくら！ ～電気電子工作系製作・交流会～#26</title>
+      <link>https://elecra296.connpass.com/event/313050/</link>
+      <description>Sat, 20 Apr 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>International Women&amp;#x27;s Day 2024 at GDG Shikoku</title>
+      <link>https://gdgshikoku.connpass.com/event/308743/</link>
+      <description>Sat, 20 Apr 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オンライン参加可】3月のUnity上級講座（ゆるもく会）VOL.69</title>
+      <link>https://sanuki-gamen.connpass.com/event/313867/</link>
+      <description>Sat, 23 Mar 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>18杯目 セキュリティうどん（かまたま）</title>
+      <link>https://sec-udon.connpass.com/event/313876/</link>
+      <description>Sat, 11 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>18杯目 かまたま懇親会</title>
+      <link>https://sec-udon.connpass.com/event/313910/</link>
+      <description>Sat, 11 May 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>PHP Lovers Meetup vol.6</title>
+      <link>https://php-lovers-meetup.connpass.com/event/315802/</link>
+      <description>Sun, 12 May 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>大人も子供も! ゲーム作ろうで～善通寺(善通寺ゆるもく会) 2024.04</title>
+      <link>https://sanuki-gamen.connpass.com/event/316138/</link>
+      <description>Sat, 13 Apr 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>SORACOM UG 四国 in 高松 2024初夏　IoT×生成AI=!!</title>
+      <link>https://soracomug-tokyo.connpass.com/event/316529/</link>
+      <description>Sat, 18 May 2024 16:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オンライン参加可】5月のゆるもく会 VOL.71</title>
+      <link>https://sanuki-gamen.connpass.com/event/317411/</link>
+      <description>Sat, 18 May 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>Google I/O 2024 Live Viewing @さぬき市</title>
+      <link>https://gdgshikoku.connpass.com/event/317656/</link>
+      <description>Tue, 14 May 2024 23:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>大人も子供も! ゲーム作ろうで～善通寺(善通寺ゆるもく会) 2024.06</title>
+      <link>https://sanuki-gamen.connpass.com/event/321444/</link>
+      <description>Sat, 15 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オンライン参加可】6月のゆるもく会 VOL.72</title>
+      <link>https://sanuki-gamen.connpass.com/event/321844/</link>
+      <description>Sat, 29 Jun 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>第6.7.1回 | CoderDojo 紫雲</title>
+      <link>https://coderdojoshiun.connpass.com/event/322506/</link>
+      <description>Sun, 14 Jul 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>オープンセミナー2024@香川</title>
+      <link>https://osk.connpass.com/event/324486/</link>
+      <description>Sat, 14 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>えれくら！ ～電気電子工作系製作・交流会～#27</title>
+      <link>https://elecra296.connpass.com/event/324706/</link>
+      <description>Sun, 08 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オンライン参加可】7月のゆるもく会 VOL.73</title>
+      <link>https://sanuki-gamen.connpass.com/event/325995/</link>
+      <description>Sat, 27 Jul 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>大人も子供も! ゲーム作ろうで～善通寺(善通寺ゆるもく会) 2024.08.10</title>
+      <link>https://sanuki-gamen.connpass.com/event/327341/</link>
+      <description>Sat, 10 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オンライン参加可】8月のゆるもく会 VOL.74</title>
+      <link>https://sanuki-gamen.connpass.com/event/327935/</link>
+      <description>Sat, 24 Aug 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>香川開催！2024年度  Web×IoT メイカーズチャレンジ PLUS【講習会 &amp;amp; ハッカソン】</title>
+      <link>https://webiotmakers.connpass.com/event/326891/</link>
+      <description>Sat, 14 Sep 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:23 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

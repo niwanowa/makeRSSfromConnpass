@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>3月 熊本クリエイターズギルド もくもく会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/312154/</link>
+      <description>Sat, 09 Mar 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>ガチマナ会 vol.2</title>
+      <link>https://kumamcn.connpass.com/event/312562/</link>
+      <description>Thu, 21 Mar 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>4月 熊本クリエイターズギルド もくもく会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/313127/</link>
+      <description>Sat, 13 Apr 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>【Azure×React】AIアプリ開発入門@XOSSPOINT.</title>
+      <link>https://otona.connpass.com/event/314199/</link>
+      <description>Wed, 10 Apr 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>5月 熊本クリエイターズギルド もくもく会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/316274/</link>
+      <description>Sat, 18 May 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>【Game JAM in 熊本 連動イベント】ゲーム企画塾 #1</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/317086/</link>
+      <description>Sun, 12 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>【MeetUp in 熊本】エンジニア/nオフ会 -1.0</title>
+      <link>https://connpass.com/event/317190/</link>
+      <description>Thu, 16 May 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>ガチマナ会 vol.3</title>
+      <link>https://kumamcn.connpass.com/event/314153/</link>
+      <description>Tue, 21 May 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>6月 熊本クリエイターズギルド もくもく会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/319632/</link>
+      <description>Sat, 08 Jun 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>ゲーム開発ハッカソン</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/320790/</link>
+      <description>Sat, 27 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>7月 熊本クリエイターズギルド もくもく会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/321594/</link>
+      <description>Sat, 13 Jul 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>6月 ゲームでただただ遊ぶ会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/321814/</link>
+      <description>Sat, 29 Jun 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kumamoto Apple Vision Pro Meetup vol.1</title>
+      <link>https://kumamcn.connpass.com/event/325137/</link>
+      <description>Thu, 18 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>MIRU2024サイバーエージェント主催ランチ座談会</title>
+      <link>https://cyberagent.connpass.com/event/323387/</link>
+      <description>Thu, 08 Aug 2024 12:20:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>8月 熊本クリエイターズギルド もくもく会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/325474/</link>
+      <description>Sat, 10 Aug 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>KumaMCN 2024 夏祭り会</title>
+      <link>https://kumamcn.connpass.com/event/327608/</link>
+      <description>Sat, 17 Aug 2024 16:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+    <item>
+      <title>9月 熊本クリエイターズギルド もくもく会</title>
+      <link>https://kumamoto-creators-guild.connpass.com/event/328058/</link>
+      <description>Sat, 14 Sep 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:30 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

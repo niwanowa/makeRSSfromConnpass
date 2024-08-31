@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>第87回 なごや個人開発者の集い</title>
+      <link>https://758indies.connpass.com/event/328431/</link>
+      <description>Sun, 25 Aug 2024 09:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo大府(第88回) 子供向けプログラミング道場 2024/09/08</title>
+      <link>https://coderdojo-obu.connpass.com/event/328432/</link>
+      <description>Sun, 08 Sep 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo大府(第89回) 子供向けプログラミング道場 2024/09/22</title>
+      <link>https://coderdojo-obu.connpass.com/event/328434/</link>
+      <description>Sun, 22 Sep 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>Matsuriba vol.6 1周年記念会</title>
+      <link>https://nxtend.connpass.com/event/328031/</link>
+      <description>Sun, 29 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>2024/9 春日井もくもく会</title>
+      <link>https://kasugai-mokumoku.connpass.com/event/328470/</link>
+      <description>Sat, 14 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo天白N205</title>
+      <link>https://tempaku.connpass.com/event/328677/</link>
+      <description>Sat, 07 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo天白N206</title>
+      <link>https://tempaku.connpass.com/event/328691/</link>
+      <description>Sat, 21 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>【無料】【見学OK】CoderDojo瀬戸(第132回) 子供プログラミングコミュニティ</title>
+      <link>https://coderdojo-seto.connpass.com/event/328700/</link>
+      <description>Sun, 20 Oct 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo日進 子供向けプログラミング道場(会場&amp;amp;オンライン)2024/09/28</title>
+      <link>https://coderdojo-nisshin.connpass.com/event/328828/</link>
+      <description>Sat, 28 Sep 2024 09:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>kintone Night Nagoya vol.15 × 無限めし コラボ</title>
+      <link>https://knn.connpass.com/event/328910/</link>
+      <description>Fri, 27 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>ITエンジニアのための無料人生相談</title>
+      <link>https://connpass.com/event/328993/</link>
+      <description>Sat, 07 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>トウカイリサーチ UXリサーチ体験会 vol.1</title>
+      <link>https://tokai-research.connpass.com/event/328806/</link>
+      <description>Sat, 14 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>第215回CoderDojo名古屋</title>
+      <link>https://coderdojo-nagoya.connpass.com/event/329204/</link>
+      <description>Sun, 01 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>JAWS-UG 名古屋 「CodeCatalyst勉強会(ハンズオン)」</title>
+      <link>https://jawsug-nagoya.connpass.com/event/329201/</link>
+      <description>Thu, 26 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>※※台風のため中止※※　　部室開催　8月31日（土）</title>
+      <link>https://nagogebu.connpass.com/event/329280/</link>
+      <description>Fri, 30 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>読書会【第4回】「構造化分析とシステム仕様（トム・デマルコ著）」</title>
+      <link>https://tdemarco758.connpass.com/event/329321/</link>
+      <description>Fri, 27 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>第88回 なごや個人開発者の集い</title>
+      <link>https://758indies.connpass.com/event/329410/</link>
+      <description>Sun, 01 Sep 2024 09:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>Seto.rb #0</title>
+      <link>https://seto-rb.connpass.com/event/329531/</link>
+      <description>Fri, 30 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>にこるのAIアフタースクール お申し込みフォーム　第１弾　１部</title>
+      <link>https://nikoru-ai-after-school.connpass.com/event/329570/</link>
+      <description>Mon, 02 Sep 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>【懇親会】JAWS-UG 名古屋 「CodeCatalyst勉強会」</title>
+      <link>https://jawsug-nagoya.connpass.com/event/329209/</link>
+      <description>Thu, 26 Sep 2024 21:15:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:03 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
