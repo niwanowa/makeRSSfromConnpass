@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>Gunma.web #52 テスト駆動開発</title>
+      <link>https://gunmaweb.connpass.com/event/309951/</link>
+      <description>Sat, 09 Mar 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:57 +0900</pubDate>
+    </item>
+    <item>
+      <title>老神.py 2024年祭事</title>
+      <link>https://oikamipy.connpass.com/event/314293/</link>
+      <description>Fri, 10 May 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:57 +0900</pubDate>
+    </item>
+    <item>
+      <title>高専カンファレンスinぐんま</title>
+      <link>https://connpass.com/event/317415/</link>
+      <description>Sat, 01 Mar 2025 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:57 +0900</pubDate>
+    </item>
+    <item>
+      <title>Gunma.web #53 好きなFW/ライブラリ</title>
+      <link>https://gunmaweb.connpass.com/event/317557/</link>
+      <description>Sat, 29 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:57 +0900</pubDate>
+    </item>
+    <item>
+      <title>【番外】懇親バーベキュー＆Builders Cardで遊ぼう（JAWS-UG 群馬）</title>
+      <link>https://jawsug-gunma.connpass.com/event/321045/</link>
+      <description>Sun, 09 Jun 2024 12:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:57 +0900</pubDate>
+    </item>
+    <item>
+      <title>Gunma.web #54 生成AI LT会</title>
+      <link>https://gunmaweb.connpass.com/event/329165/</link>
+      <description>Sat, 19 Oct 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:57 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

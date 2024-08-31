@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>[オフライン] PyLadies Caravan in 青森</title>
+      <link>https://pyladies-tokyo.connpass.com/event/315014/</link>
+      <description>Sat, 11 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

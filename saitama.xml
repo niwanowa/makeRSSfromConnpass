@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>第91回CoderDojoさいたま</title>
+      <link>https://coderdojo-saitama.connpass.com/event/317682/</link>
+      <description>Sun, 23 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>川越インディーゲーム + イラスト・まんが もくもく会　第4回</title>
+      <link>https://kawagoemokumoku.connpass.com/event/320722/</link>
+      <description>Sat, 29 Jun 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>川口インディーゲーム製作もくもく会(Unity/Unreal Engine) 37回目</title>
+      <link>https://kawaguchimokumoku.connpass.com/event/321409/</link>
+      <description>Sat, 06 Jul 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>【オフライン開催】Urawa.rb #6 七夕編</title>
+      <link>https://urawarb.connpass.com/event/322549/</link>
+      <description>Sun, 07 Jul 2024 13:10:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>Saitama.rb #29</title>
+      <link>https://saitamarb.connpass.com/event/322499/</link>
+      <description>Sat, 20 Jul 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>第92回CoderDojoさいたま</title>
+      <link>https://coderdojo-saitama.connpass.com/event/320441/</link>
+      <description>Sun, 28 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>第48回 CoderDojo 戸田公園</title>
+      <link>https://corderdojo-todakoen.connpass.com/event/323880/</link>
+      <description>Sat, 06 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIで遊ぼう!女性主催・完全初心者向けchatGPT体験セミナー【10代・20代・30代の方限定】</title>
+      <link>https://it-beginner.connpass.com/event/324219/</link>
+      <description>Fri, 12 Jul 2024 20:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>所沢フリーランスもくもく会</title>
+      <link>https://tokomoku.connpass.com/event/324047/</link>
+      <description>Wed, 17 Jul 2024 09:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>川越インディーゲーム + イラスト・まんが もくもく会　第5回</title>
+      <link>https://kawagoemokumoku.connpass.com/event/324541/</link>
+      <description>Sat, 27 Jul 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>川口インディーゲーム製作もくもく会(Unity/Unreal Engineなど) 38回目</title>
+      <link>https://kawaguchimokumoku.connpass.com/event/324608/</link>
+      <description>Sat, 03 Aug 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>東武スカイツリーライン沿線 エンジニアLT会 Vol.1</title>
+      <link>https://codeforsoka.connpass.com/event/309667/</link>
+      <description>Sat, 27 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>第49回 CoderDojo 戸田公園</title>
+      <link>https://corderdojo-todakoen.connpass.com/event/326490/</link>
+      <description>Sat, 03 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>第2回 所沢フリーランスもくもく会</title>
+      <link>https://tokomoku.connpass.com/event/326653/</link>
+      <description>Wed, 07 Aug 2024 09:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>川越インディーゲーム + イラスト・まんが もくもく会　第6回</title>
+      <link>https://kawagoemokumoku.connpass.com/event/327190/</link>
+      <description>Sat, 17 Aug 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>Maximum-Cup 2024</title>
+      <link>https://saitama-maximum.connpass.com/event/325174/</link>
+      <description>Sat, 31 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>川口インディーゲーム製作もくもく会(Unity/Unreal Engineなど) 39回目</title>
+      <link>https://kawaguchimokumoku.connpass.com/event/327234/</link>
+      <description>Sat, 05 Oct 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>第93回CoderDojoさいたま</title>
+      <link>https://coderdojo-saitama.connpass.com/event/326061/</link>
+      <description>Sun, 18 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>Saitama.rb #30</title>
+      <link>https://saitamarb.connpass.com/event/328009/</link>
+      <description>Sat, 21 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>第50回 CoderDojo 戸田公園</title>
+      <link>https://corderdojo-todakoen.connpass.com/event/329773/</link>
+      <description>Sat, 07 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:58 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

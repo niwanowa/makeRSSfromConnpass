@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>JAWS-UG新潟 #18 × IoT LT新潟共催！AWS Lambdaハンズオン&amp;amp;LT大会</title>
+      <link>https://jawsug-niigata.connpass.com/event/317146/</link>
+      <description>Sat, 18 May 2024 11:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>NINNO Tech Fest #14</title>
+      <link>https://ninno-tech-fest.connpass.com/event/316918/</link>
+      <description>Thu, 09 May 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Groov編集会議vol.2「新潟を魅力的にするための空き家・遊休不動産活用について考える」</title>
+      <link>https://ddd-ng.connpass.com/event/317519/</link>
+      <description>Thu, 16 May 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Niigata5分Tech #8</title>
+      <link>https://niigata-5min-tech.connpass.com/event/318728/</link>
+      <description>Fri, 31 May 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>PHP勉強会in新潟！</title>
+      <link>https://php-niigata.connpass.com/event/319276/</link>
+      <description>Fri, 07 Jun 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>【DERTA GIG vol.14】AWS 生成AI ハンズオン</title>
+      <link>https://ddd-ng.connpass.com/event/320849/</link>
+      <description>Sat, 29 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Niigata5分Tech #9</title>
+      <link>https://niigata-5min-tech.connpass.com/event/322295/</link>
+      <description>Fri, 28 Jun 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Meetup Niigata #1 Zero Trust ハンズオン</title>
+      <link>https://cfm-cts.connpass.com/event/322901/</link>
+      <description>Sun, 25 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Groov編集会議vol.4「これからの地域の“担い手”とは？ 」</title>
+      <link>https://ddd-ng.connpass.com/event/323098/</link>
+      <description>Tue, 30 Jul 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>braInterview（ブレインタビュー）vol.2</title>
+      <link>https://ddd-ng.connpass.com/event/324028/</link>
+      <description>Sat, 20 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Niigata5分Tech #10</title>
+      <link>https://niigata-5min-tech.connpass.com/event/324842/</link>
+      <description>Fri, 26 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>DERTA Gig HACKS in Niigata</title>
+      <link>https://ddd-ng.connpass.com/event/319886/</link>
+      <description>Wed, 21 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>DERTA Jam vol.21 in Niigata</title>
+      <link>https://ddd-ng.connpass.com/event/325087/</link>
+      <description>Sat, 17 Aug 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Niigata5分Tech #11</title>
+      <link>https://niigata-5min-tech.connpass.com/event/327309/</link>
+      <description>Fri, 23 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>10/12 Open Source Conference 2024 Nagaoka</title>
+      <link>https://ospn.connpass.com/event/325425/</link>
+      <description>Sat, 12 Oct 2024 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>10/11 オープンソースカンファレンス2024 長岡　前夜祭</title>
+      <link>https://ospn.connpass.com/event/327586/</link>
+      <description>Fri, 11 Oct 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>10/12 Open Source Conference 2024 Nagaoka 懇親会</title>
+      <link>https://noss.connpass.com/event/327587/</link>
+      <description>Sat, 12 Oct 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>braInterview（ブレインタビュー）vol.3</title>
+      <link>https://ddd-ng.connpass.com/event/327519/</link>
+      <description>Sat, 07 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>情シス in 新潟 #11 オフライン開催</title>
+      <link>https://infosys-niigata.connpass.com/event/328352/</link>
+      <description>Sat, 24 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>Niigata5分Tech #12</title>
+      <link>https://niigata-5min-tech.connpass.com/event/329653/</link>
+      <description>Fri, 20 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:05 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>CoderDojo仙台若林#8 AM開始</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/322128/</link>
+      <description>Sun, 30 Jun 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>Sendai Frontend Meetup #12</title>
+      <link>https://sfeug.connpass.com/event/322555/</link>
+      <description>Mon, 22 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo仙台若林#9 AM</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/323216/</link>
+      <description>Sun, 07 Jul 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>#4 はじめてのIT勉強会 in 仙台(2024)【オフライン開催】</title>
+      <link>https://lets-go-study-meeting.connpass.com/event/323637/</link>
+      <description>Wed, 24 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[現地開催] おすすめ本プレゼン大会（ビブリオバトル）</title>
+      <link>https://suku3rum-sendai.connpass.com/event/323814/</link>
+      <description>Wed, 17 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>第29回Goの標準ライブラリのコードを見てみよう(オフライン)</title>
+      <link>https://sendaigo.connpass.com/event/324042/</link>
+      <description>Wed, 10 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo仙台若林#10 PM</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/324602/</link>
+      <description>Sun, 21 Jul 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo仙台若林#11 荒町PM</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/325820/</link>
+      <description>Sun, 04 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>#5 はじめてのIT勉強会 in 仙台(2024)【オフライン開催】</title>
+      <link>https://lets-go-study-meeting.connpass.com/event/326233/</link>
+      <description>Wed, 28 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo仙台若林#13 PM</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/327232/</link>
+      <description>Sun, 25 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo仙台若林#12 荒町AM（補講）</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/327264/</link>
+      <description>Sun, 18 Aug 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>第30回Goの標準ライブラリのコードを見てみよう(オフライン)</title>
+      <link>https://sendaigo.connpass.com/event/327474/</link>
+      <description>Wed, 14 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo仙台若林#14 AM</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/329106/</link>
+      <description>Sun, 01 Sep 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo仙台若林#15 PM</title>
+      <link>https://coderdojo-sendai-wakabayashi.connpass.com/event/329107/</link>
+      <description>Sun, 22 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>みんなでみよう Goリリパ (オフライン)</title>
+      <link>https://sendaigo.connpass.com/event/326794/</link>
+      <description>Tue, 03 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>TinyGo Keeb Tour 2024 in Sendai with Sendai.go</title>
+      <link>https://sendaigo.connpass.com/event/327533/</link>
+      <description>Sat, 12 Oct 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>Sendai Frontend Meetup #13</title>
+      <link>https://sfeug.connpass.com/event/329167/</link>
+      <description>Fri, 20 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>[オンライン・オフライン] スクラムフェス仙台2024キーノート上映会</title>
+      <link>https://suku3rum-sendai.connpass.com/event/329135/</link>
+      <description>Wed, 18 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>#6 はじめてのIT勉強会 in 仙台(2024)【オフライン開催】</title>
+      <link>https://lets-go-study-meeting.connpass.com/event/329530/</link>
+      <description>Wed, 25 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>TohokuTech #3「生成 AI の活用事例が聞きたい！」#tohokutech</title>
+      <link>https://classmethod.connpass.com/event/328778/</link>
+      <description>Thu, 26 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:49 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

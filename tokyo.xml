@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>Wantedly Tech Night~ウォンテッドリーのデザインとフロントエンドについて~</title>
+      <link>https://wantedly.connpass.com/event/329191/</link>
+      <description>Wed, 18 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>門前仲町インディゲームもくもく会2024年9月21日</title>
+      <link>https://akimoku2024.connpass.com/event/329672/</link>
+      <description>Sat, 21 Sep 2024 11:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>LIFULL AI Hub 100 ミニッツ ＃4 「データ組織のマネジメント」</title>
+      <link>https://connpass.com/event/328176/</link>
+      <description>Fri, 20 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojoまちだ　第６３回</title>
+      <link>https://coderdojo-machida.connpass.com/event/329253/</link>
+      <description>Sun, 13 Oct 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>第45回 『事例でわかるMLOps 機械学習の成果をスケールさせる処方箋』出版記念MLOps勉強会</title>
+      <link>https://mlops.connpass.com/event/328296/</link>
+      <description>Wed, 02 Oct 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>RAGを使ったAIアプリケーションの性能評価と精度向上  - W&amp;amp;Bミートアップ #16</title>
+      <link>https://wandb.connpass.com/event/329692/</link>
+      <description>Tue, 17 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【限定20名様】若手クリエイターのキャリアについて考えるLT交流会！</title>
+      <link>https://aegis.connpass.com/event/329718/</link>
+      <description>Thu, 26 Sep 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[第２回] AIロボット駆動科学研究会</title>
+      <link>https://connpass.com/event/321579/</link>
+      <description>Mon, 28 Oct 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>React Native Meetup #18 ft. CureApp</title>
+      <link>https://react-native-meetup.connpass.com/event/329486/</link>
+      <description>Fri, 04 Oct 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>神田・秋葉原 もくもく会</title>
+      <link>https://fffff.connpass.com/event/329561/</link>
+      <description>Thu, 19 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>MIERUNE JCT - Tokyo 2024</title>
+      <link>https://mierune.connpass.com/event/328227/</link>
+      <description>Thu, 26 Sep 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ハイブリッド開催】LLMアプリの運用と向き合う</title>
+      <link>https://hack-at-delta.connpass.com/event/329622/</link>
+      <description>Thu, 26 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>YAPC::Hakodate 2024 非公式予習会</title>
+      <link>https://smartbank.connpass.com/event/328545/</link>
+      <description>Wed, 18 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>PyCon JP 2024：参加者管理チームMTG #23</title>
+      <link>https://pyconjp-staff.connpass.com/event/329747/</link>
+      <description>Mon, 02 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>IoT縛りの勉強会! IoTLT vol115@ビットキー</title>
+      <link>https://iotlt.connpass.com/event/329750/</link>
+      <description>Thu, 19 Sep 2024 19:45:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>第20回 中目黒 (菅刈住区センター) プログラミング・IT・ゲーム開発関連 黙々もくもく会</title>
+      <link>https://mokumokumokumoku.connpass.com/event/329766/</link>
+      <description>Sun, 15 Sep 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SQL Server ワークロードを Azure SQL Database に移行する #4</title>
+      <link>https://sqlserver.connpass.com/event/329772/</link>
+      <description>Sat, 28 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Hack U クリエイター交流会 2024 AUTUMN</title>
+      <link>https://hacku.connpass.com/event/329646/</link>
+      <description>Mon, 14 Oct 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>501st Dev Morning</title>
+      <link>https://devmorning.connpass.com/event/329776/</link>
+      <description>Sun, 01 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@恵比寿</title>
+      <link>https://techmokmok.connpass.com/event/329721/</link>
+      <description>Sat, 07 Sep 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

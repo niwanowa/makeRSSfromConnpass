@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>第74回 CoderDojo Hitachinaka</title>
+      <link>https://coderdojo-hitachinaka.connpass.com/event/317106/</link>
+      <description>Mon, 06 May 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>UNTIL. LT #0x04</title>
+      <link>https://until-tsukuba.connpass.com/event/309828/</link>
+      <description>Sat, 11 May 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ibaraki.dev  #3 もくもく会</title>
+      <link>https://mito-web-engineer.connpass.com/event/318155/</link>
+      <description>Sat, 25 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第75回 CoderDojo Hitachinaka</title>
+      <link>https://coderdojo-hitachinaka.connpass.com/event/318740/</link>
+      <description>Sun, 09 Jun 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第９５回 CoderDojo Mito</title>
+      <link>https://coderdojo-mito.connpass.com/event/319094/</link>
+      <description>Sun, 26 May 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第79回CoderDojo Koga（コーダー道場 古河）</title>
+      <link>https://coderdojokoga.connpass.com/event/319830/</link>
+      <description>Sun, 23 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ibaraki.dev  #4 もくもく会</title>
+      <link>https://mito-web-engineer.connpass.com/event/321283/</link>
+      <description>Sat, 22 Jun 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>Laboratory Automation Developers Conference 2024</title>
+      <link>https://laboratoryautomation.connpass.com/event/319334/</link>
+      <description>Thu, 19 Sep 2024 12:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第９６回 CoderDojo Mito</title>
+      <link>https://coderdojo-mito.connpass.com/event/322082/</link>
+      <description>Sun, 23 Jun 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第76回 CoderDojo Hitachinaka</title>
+      <link>https://coderdojo-hitachinaka.connpass.com/event/322572/</link>
+      <description>Mon, 15 Jul 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>祝6周年！！　第80回CoderDojo Koga（コーダー道場 古河）</title>
+      <link>https://coderdojokoga.connpass.com/event/323206/</link>
+      <description>Sat, 20 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ibaraki.dev  #5 もくもく会</title>
+      <link>https://mito-web-engineer.connpass.com/event/323225/</link>
+      <description>Sat, 27 Jul 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>Engineer Guild Meetup@筑波大学</title>
+      <link>https://howtv.connpass.com/event/324200/</link>
+      <description>Wed, 10 Jul 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第81回CoderDojo Koga（コーダー道場 古河）</title>
+      <link>https://coderdojokoga.connpass.com/event/325168/</link>
+      <description>Sat, 24 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第９７回 CoderDojo Mito</title>
+      <link>https://coderdojo-mito.connpass.com/event/324871/</link>
+      <description>Sun, 28 Jul 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第77回 CoderDojo Hitachinaka</title>
+      <link>https://coderdojo-hitachinaka.connpass.com/event/325337/</link>
+      <description>Sun, 11 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第82回CoderDojo Koga（コーダー道場 古河）</title>
+      <link>https://coderdojokoga.connpass.com/event/328001/</link>
+      <description>Sat, 21 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第９８回 CoderDojo Mito</title>
+      <link>https://coderdojo-mito.connpass.com/event/328627/</link>
+      <description>Sun, 25 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ibaraki.dev  #5 もくもく会</title>
+      <link>https://mito-web-engineer.connpass.com/event/328933/</link>
+      <description>Sat, 07 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>第78回 CoderDojo Hitachinaka</title>
+      <link>https://coderdojo-hitachinaka.connpass.com/event/329024/</link>
+      <description>Mon, 23 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:54 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>第二十八回 CoderDojo西那須野</title>
+      <link>https://coder-dojo-nishinasuno.connpass.com/event/317083/</link>
+      <description>Sun, 16 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>とちぎラズパイ同好会 113回目</title>
+      <link>https://torpc.connpass.com/event/319709/</link>
+      <description>Sun, 26 May 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>toruby 205th</title>
+      <link>https://toruby.connpass.com/event/319710/</link>
+      <description>Wed, 05 Jun 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>【ハイブリッド開催】RTミドルウェア講習会</title>
+      <link>https://connpass.com/event/320216/</link>
+      <description>Wed, 29 May 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>DIYデジタルガジェットで遊ぼ２ in 那須</title>
+      <link>https://play-dg.connpass.com/event/318121/</link>
+      <description>Sun, 20 Oct 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>三島公民館ワークショップ メンター募集</title>
+      <link>https://kominnkan-ws.connpass.com/event/321826/</link>
+      <description>Fri, 26 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>とちぎラズパイ同好会 114回目</title>
+      <link>https://torpc.connpass.com/event/322525/</link>
+      <description>Sun, 23 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>第二十九回 CoderDojo西那須野</title>
+      <link>https://coder-dojo-nishinasuno.connpass.com/event/321231/</link>
+      <description>Sun, 21 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>toruby 206th</title>
+      <link>https://toruby.connpass.com/event/323048/</link>
+      <description>Wed, 03 Jul 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>【宮もく】宇都宮でもくもく会 #33</title>
+      <link>https://utsunomiyamokumoku.connpass.com/event/324099/</link>
+      <description>Sat, 14 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>出張版 第三十回 CoderDojo西那須野</title>
+      <link>https://coder-dojo-nishinasuno.connpass.com/event/323076/</link>
+      <description>Sun, 04 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>第三十一回 CoderDojo西那須野</title>
+      <link>https://coder-dojo-nishinasuno.connpass.com/event/320801/</link>
+      <description>Sun, 18 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>とちぎラズパイ同好会 115回目</title>
+      <link>https://torpc.connpass.com/event/326383/</link>
+      <description>Sun, 28 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>toruby 207th</title>
+      <link>https://toruby.connpass.com/event/326704/</link>
+      <description>Wed, 07 Aug 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>栃木ゆる勉強会@宇都宮</title>
+      <link>https://tochigi-study.connpass.com/event/327165/</link>
+      <description>Tue, 13 Aug 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>とちぎラズパイ同好会 116回目</title>
+      <link>https://torpc.connpass.com/event/327941/</link>
+      <description>Sun, 25 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>toruby 208th</title>
+      <link>https://toruby.connpass.com/event/327942/</link>
+      <description>Wed, 04 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>第三十二回 CoderDojo西那須野</title>
+      <link>https://coder-dojo-nishinasuno.connpass.com/event/323074/</link>
+      <description>Sun, 15 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>Scrum Fest 三河 2024 栃木サテライト Day2</title>
+      <link>https://agile-no-wa-tochigi.connpass.com/event/328672/</link>
+      <description>Sat, 14 Sep 2024 09:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>Scrum Fest 三河 2024 栃木サテライト Day1</title>
+      <link>https://agile-no-wa-tochigi.connpass.com/event/329754/</link>
+      <description>Fri, 13 Sep 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:55 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>第9回 CoderDojo Tsuruoka</title>
+      <link>https://coderdojo-tsuruoka.connpass.com/event/310264/</link>
+      <description>Sat, 23 Mar 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第3回 Azure Travelers 勉強会 山形の旅</title>
+      <link>https://jat.connpass.com/event/308087/</link>
+      <description>Sat, 22 Jun 2024 11:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第10回 CoderDojo Tsuruoka</title>
+      <link>https://coderdojo-tsuruoka.connpass.com/event/314276/</link>
+      <description>Sat, 27 Apr 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第11回 CoderDojo Tsuruoka</title>
+      <link>https://coderdojo-tsuruoka.connpass.com/event/318041/</link>
+      <description>Sat, 18 May 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>Python Boot Camp in 山形3rd 懇親会</title>
+      <link>https://pyconjp.connpass.com/event/317638/</link>
+      <description>Sat, 29 Jun 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>Python Boot Camp in 山形3rd (@産業技術短大庄内校)</title>
+      <link>https://pyconjp.connpass.com/event/317636/</link>
+      <description>Sat, 29 Jun 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第12回 CoderDojo Tsuruoka</title>
+      <link>https://coderdojo-tsuruoka.connpass.com/event/319723/</link>
+      <description>Sat, 22 Jun 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第13回 CoderDojo Tsuruoka</title>
+      <link>https://coderdojo-tsuruoka.connpass.com/event/322299/</link>
+      <description>Sat, 20 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>NEMTUS夏合宿2024 in 山形</title>
+      <link>https://nemtus.connpass.com/event/325521/</link>
+      <description>Sat, 14 Sep 2024 12:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第14回 CoderDojo Tsuruoka</title>
+      <link>https://coderdojo-tsuruoka.connpass.com/event/325854/</link>
+      <description>Sat, 24 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第1回 CoderDojo 山形</title>
+      <link>https://coderdojo-yamagata.connpass.com/event/328541/</link>
+      <description>Sat, 07 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>第1回 CoderDojo 村山</title>
+      <link>https://coderdojo-murayama.connpass.com/event/328590/</link>
+      <description>Sat, 07 Sep 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
