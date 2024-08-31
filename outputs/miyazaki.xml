@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>Webナイト宮崎 vol.20 〜懇親会〜</title>
+      <link>https://tegehoge.connpass.com/event/315373/</link>
+      <description>Fri, 26 Apr 2024 21:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Webナイト宮崎 Vol.20 〜てげWeb学びたい〜</title>
+      <link>https://tegehoge.connpass.com/event/315137/</link>
+      <description>Fri, 26 Apr 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>React勉強会 Vol.1</title>
+      <link>https://tegehoge.connpass.com/event/323105/</link>
+      <description>Sat, 20 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>3D MEETUP MIYAZAKI ver.α</title>
+      <link>https://tegehoge.connpass.com/event/319478/</link>
+      <description>Sat, 14 Sep 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Python Boot Camp in 宮崎</title>
+      <link>https://pyconjp.connpass.com/event/327156/</link>
+      <description>Sat, 21 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>Adobe Expressと生成AIで作るバナー作成ワークショップ</title>
+      <link>https://minna.connpass.com/event/327501/</link>
+      <description>Fri, 23 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>React勉強会 Vol.2</title>
+      <link>https://tegehoge.connpass.com/event/328095/</link>
+      <description>Fri, 30 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:33 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

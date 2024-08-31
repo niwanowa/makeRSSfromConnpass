@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>nagara.rb 0.8.4 もくもく会  at Neo work-Gifu</title>
+      <link>https://nagara-rb.connpass.com/event/311032/</link>
+      <description>Sat, 09 Mar 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第７７回オープンＣＡＥ勉強会岐阜</title>
+      <link>https://ocbgifu.connpass.com/event/314021/</link>
+      <description>Sat, 11 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>nagara.rb 0.8.5 もくもく会  at Neo work-Gifu</title>
+      <link>https://nagara-rb.connpass.com/event/314643/</link>
+      <description>Sat, 13 Apr 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第59回 CoderDojo岐阜</title>
+      <link>https://coderdojo-gifu.connpass.com/event/314834/</link>
+      <description>Sat, 13 Apr 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>nagara.rb 0.8.6 もくもく会  at Neo work-Gifu</title>
+      <link>https://nagara-rb.connpass.com/event/316509/</link>
+      <description>Sat, 08 Jun 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第60回 CoderDojo岐阜</title>
+      <link>https://coderdojo-gifu.connpass.com/event/317302/</link>
+      <description>Sat, 25 May 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第７８回オープンＣＡＥ勉強会岐阜</title>
+      <link>https://ocbgifu.connpass.com/event/318950/</link>
+      <description>Sat, 27 Jul 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第二回 名古屋組込(ET)勉強会</title>
+      <link>https://connpass.com/event/319139/</link>
+      <description>Sun, 19 May 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第61回 CoderDojo岐阜</title>
+      <link>https://coderdojo-gifu.connpass.com/event/321519/</link>
+      <description>Sat, 29 Jun 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>nagara.rb 0.8.7 もくもく会  at Neo work-Gifu</title>
+      <link>https://nagara-rb.connpass.com/event/321797/</link>
+      <description>Sat, 06 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第７８回オープンＣＡＥ勉強会岐阜</title>
+      <link>https://ocbgifu.connpass.com/event/322701/</link>
+      <description>Sat, 03 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>高専カンファレンスin岐阜ロボ</title>
+      <link>https://kosenconf172gifurobo.connpass.com/event/324139/</link>
+      <description>Sun, 09 Mar 2025 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>nagara.rb 0.8.8 もくもく会  at Neo work-Gifu</title>
+      <link>https://nagara-rb.connpass.com/event/324598/</link>
+      <description>Sat, 03 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第62回 CoderDojo岐阜</title>
+      <link>https://coderdojo-gifu.connpass.com/event/324747/</link>
+      <description>Sat, 20 Jul 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>Revitもくもく会</title>
+      <link>https://revit-gifu.connpass.com/event/325569/</link>
+      <description>Wed, 24 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>Revit岐阜もくもく会</title>
+      <link>https://revit-gifu.connpass.com/event/325964/</link>
+      <description>Wed, 31 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第63回 CoderDojo岐阜</title>
+      <link>https://coderdojo-gifu.connpass.com/event/326312/</link>
+      <description>Sat, 24 Aug 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>nagara.rb 0.8.9 もくもく会  at Neo work-Gifu</title>
+      <link>https://nagara-rb.connpass.com/event/327217/</link>
+      <description>Sat, 07 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第７９回オープンＣＡＥ勉強会岐阜</title>
+      <link>https://ocbgifu.connpass.com/event/327222/</link>
+      <description>Sat, 12 Oct 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>第64回 CoderDojo岐阜</title>
+      <link>https://coderdojo-gifu.connpass.com/event/329187/</link>
+      <description>Sat, 14 Sep 2024 09:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:01 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

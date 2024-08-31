@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>ライトなRuby in Ehime</title>
+      <link>https://enjoy-rubirubi.connpass.com/event/316326/</link>
+      <description>Sun, 05 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:24 +0900</pubDate>
+    </item>
+    <item>
+      <title>kintone Café 愛媛 Vol.18</title>
+      <link>https://kintone-cafe-ehime.connpass.com/event/316408/</link>
+      <description>Sat, 25 May 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:24 +0900</pubDate>
+    </item>
+    <item>
+      <title>[愛媛開催]地方だからできる！AWS活用のポイントと導入事例</title>
+      <link>https://relight.connpass.com/event/321948/</link>
+      <description>Fri, 09 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:24 +0900</pubDate>
+    </item>
+    <item>
+      <title>[愛媛開催]地方エンジニアのためのAWSハンズオン 〜生成系AIを使った開発力強化のポイント</title>
+      <link>https://relight.connpass.com/event/321949/</link>
+      <description>Sat, 10 Aug 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:24 +0900</pubDate>
+    </item>
+    <item>
+      <title>kintone Café 愛媛 Vol.19</title>
+      <link>https://kintone-cafe-ehime.connpass.com/event/322780/</link>
+      <description>Sat, 28 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:24 +0900</pubDate>
+    </item>
+    <item>
+      <title>Django勉強会 in 松山</title>
+      <link>https://pyehime.connpass.com/event/326007/</link>
+      <description>Sat, 31 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:24 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

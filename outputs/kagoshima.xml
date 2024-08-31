@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>【2024年6月】Movable Type のブロックエディタをカスタマイズしてみよう！</title>
+      <link>https://movabletype-kagoshima.connpass.com/event/320640/</link>
+      <description>Sat, 08 Jun 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>鹿児島.mk #50 5周年LT大大会</title>
+      <link>https://kagoshima-mk.connpass.com/event/321458/</link>
+      <description>Fri, 05 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>かごもく #78 ICONIX を試す</title>
+      <link>https://kagoben.connpass.com/event/321582/</link>
+      <description>Sat, 08 Jun 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>【Scrum Fest Osaka2024】 鹿児島サテライト会場 Day1(6/21 Fri)</title>
+      <link>https://kagoshima-scrum.connpass.com/event/321410/</link>
+      <description>Fri, 21 Jun 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>【Scrum Fest Osaka2024】 鹿児島サテライト会場 Day2(6/22 Sat)</title>
+      <link>https://kagoshima-scrum.connpass.com/event/322022/</link>
+      <description>Sat, 22 Jun 2024 09:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>かごんま.NET 2024.06 Unityでの単体テスト</title>
+      <link>https://kagoshima-dotnet.connpass.com/event/323417/</link>
+      <description>Thu, 04 Jul 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>【2024年7月】Movable Type.net のかんたんデザイン編集機能を触ってみよう！</title>
+      <link>https://movabletype-kagoshima.connpass.com/event/323675/</link>
+      <description>Sat, 13 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>第2回 AWS勉強会（生成AI入門編）</title>
+      <link>https://ankusu.connpass.com/event/323810/</link>
+      <description>Fri, 19 Jul 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>SRE本 読書会 (第八回)</title>
+      <link>https://genbasupport.connpass.com/event/324749/</link>
+      <description>Wed, 31 Jul 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>お産ハッカソン (鹿児島学生向けハッカソン)</title>
+      <link>https://kagoshima-hackathon.connpass.com/event/322320/</link>
+      <description>Sat, 10 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>かごもく #79「脳に収まるコードの書き方」を読む</title>
+      <link>https://kagoben.connpass.com/event/324967/</link>
+      <description>Sat, 20 Jul 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>第2回 エンジニア立ち飲み屋 もんそ</title>
+      <link>https://genbasupport.connpass.com/event/325458/</link>
+      <description>Thu, 08 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>【中止】SRE本 読書会 (第九回)</title>
+      <link>https://genbasupport.connpass.com/event/326902/</link>
+      <description>Thu, 29 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>第3回 AWS勉強会（AWS Certified AI Practitioner編）</title>
+      <link>https://ankusu.connpass.com/event/326921/</link>
+      <description>Fri, 23 Aug 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>PLATEAU XR ＆ デジタルツイン ハッカソン2024（鹿児島会場）Day1</title>
+      <link>https://xrm-kagoshima.connpass.com/event/326786/</link>
+      <description>Sun, 06 Oct 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>かごんま.NET 2024.08 UniRx(R3)/UniTask</title>
+      <link>https://kagoshima-dotnet.connpass.com/event/328239/</link>
+      <description>Thu, 22 Aug 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>かごもく #80「脳に収まるコードの書き方」を読む</title>
+      <link>https://kagoben.connpass.com/event/328276/</link>
+      <description>Sat, 17 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>3Dスキャン・HOVER AIR・XR体験会 in 鹿児島</title>
+      <link>https://xrm-kagoshima.connpass.com/event/328595/</link>
+      <description>Sat, 24 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>鹿児島.mk #51 Apple Vision Pro であそぼ</title>
+      <link>https://kagoshima-mk.connpass.com/event/328628/</link>
+      <description>Fri, 20 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>SRE本 読書会 (第9.1回)</title>
+      <link>https://genbasupport.connpass.com/event/329682/</link>
+      <description>Tue, 17 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:35 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

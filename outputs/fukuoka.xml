@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>第84回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地） ※２階です</title>
+      <link>https://coderdojo-fukuoka.connpass.com/event/328388/</link>
+      <description>Sat, 14 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>福岡 Rubyist会議 04 懇親会</title>
+      <link>https://fukuokarb.connpass.com/event/328226/</link>
+      <description>Sat, 07 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>Kizuku.go Vol.2 with 岩田プロ 「はじめてのGo言語教室」</title>
+      <link>https://connpass.com/event/328358/</link>
+      <description>Sat, 28 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>FLN Design Lab #10 ユーザビリティ5</title>
+      <link>https://flntdl.connpass.com/event/327258/</link>
+      <description>Wed, 21 Aug 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>Engineering Productivity Meetup #3 in 福岡</title>
+      <link>https://cybozu.connpass.com/event/328524/</link>
+      <description>Wed, 02 Oct 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>Design Dontaku vol.4</title>
+      <link>https://connpass.com/event/326897/</link>
+      <description>Thu, 12 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>BEMA LT &amp;amp; Meetup in Kitakyushu vol.2</title>
+      <link>https://connpass.com/event/328591/</link>
+      <description>Tue, 17 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>iPadでSwift Playgroundsを学ぼう#25(2024-08-28)</title>
+      <link>https://engineercafe.connpass.com/event/327609/</link>
+      <description>Wed, 28 Aug 2024 12:45:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>台湾最大級OSSイベント参加報告会</title>
+      <link>https://engineercafe.connpass.com/event/328339/</link>
+      <description>Sun, 15 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>DeepLearning Tenjin 2024 #3</title>
+      <link>https://engineercafe.connpass.com/event/328637/</link>
+      <description>Mon, 02 Sep 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>つくると！の夜（みんなの懇親会）</title>
+      <link>https://tsukuruto.connpass.com/event/329034/</link>
+      <description>Sat, 31 Aug 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>プレシャスプラスチックの未来をつくるナイト / AIPCafeワークショップナイト 001</title>
+      <link>https://aipcafe.connpass.com/event/329038/</link>
+      <description>Thu, 12 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>Git・Github勉強会</title>
+      <link>https://engineercafe.connpass.com/event/329140/</link>
+      <description>Fri, 13 Sep 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>「カワイイ」についての読書会 / KAWAII Creation LAB. #000</title>
+      <link>https://kawaii.connpass.com/event/329259/</link>
+      <description>Fri, 27 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>Unityとmocopiではじめるモーションキャプチャ</title>
+      <link>https://engineercafe.connpass.com/event/329229/</link>
+      <description>Thu, 29 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>Houdini for GAME福岡 by ボーンデジタル</title>
+      <link>https://connpass.com/event/329213/</link>
+      <description>Mon, 07 Oct 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>DeepLearning Tenjin 2024 #4</title>
+      <link>https://engineercafe.connpass.com/event/329153/</link>
+      <description>Mon, 09 Sep 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>UnityではじめるVR開発【1.はじめてのVRアプリ開発】</title>
+      <link>https://engineercafe.connpass.com/event/329397/</link>
+      <description>Thu, 05 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>Windowsバッチ・PowerShellでユーティリティを作ってみる会【オフライン編：2/5】</title>
+      <link>https://engineercafe.connpass.com/event/327699/</link>
+      <description>Fri, 30 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>【会場開催】第96回CoderDojo久留米</title>
+      <link>https://coderdojo-kurume.connpass.com/event/329737/</link>
+      <description>Sat, 21 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:27 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

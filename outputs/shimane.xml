@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>第148回オープンソースサロン・Agile Shimane</title>
+      <link>https://shimane-oss.connpass.com/event/313810/</link>
+      <description>Fri, 19 Apr 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMCN #11 UnrealとMetaHumanでデジタルヒューマン制作ハンズオン</title>
+      <link>https://chiikiokoshi-vr.connpass.com/event/316315/</link>
+      <description>Mon, 29 Apr 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>初学者向け！Webサイト構築セミナー（全4回）2024</title>
+      <link>https://shimane-oss.connpass.com/event/317179/</link>
+      <description>Wed, 22 May 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>【無料】プログラミング体験会【IT未経験者向け】【6/8(土)開催】</title>
+      <link>https://connpass.com/event/318754/</link>
+      <description>Sat, 08 Jun 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>出雲駆動開発Vol.1 - ウェアラブル座談会</title>
+      <link>https://izumo-driven-development.connpass.com/event/319074/</link>
+      <description>Mon, 10 Jun 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>第149回オープンソースサロン</title>
+      <link>https://shimane-oss.connpass.com/event/320024/</link>
+      <description>Fri, 07 Jun 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>アジャイルの土台作りを考えよう at AgileShimane</title>
+      <link>https://agile-shimane.connpass.com/event/320079/</link>
+      <description>Tue, 11 Jun 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>レゴ SPIKE ロボットプログラミング講習会</title>
+      <link>https://shimane-oss.connpass.com/event/322135/</link>
+      <description>Sun, 23 Jun 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>フェンリル ✕ Brushup 共催セミナー 島根が主役なエンジニアの働き方</title>
+      <link>https://fenrir-brushup.connpass.com/event/319015/</link>
+      <description>Fri, 26 Jul 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMCN #12 Vket Cloud 勉強会 in 島根</title>
+      <link>https://chiikiokoshi-vr.connpass.com/event/320325/</link>
+      <description>Sat, 06 Jul 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>出雲駆動開発Vol.2 - XR勉強会　AppleVisionPro体験もあるで！</title>
+      <link>https://izumo-driven-development.connpass.com/event/323499/</link>
+      <description>Sun, 21 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>SMCN #12 Vket Cloud 勉強会 in 島根 懇親会</title>
+      <link>https://chiikiokoshi-vr.connpass.com/event/323429/</link>
+      <description>Sat, 06 Jul 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>第150回オープンソースサロン・総会記念講演</title>
+      <link>https://shimane-oss.connpass.com/event/324228/</link>
+      <description>Fri, 30 Aug 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+    <item>
+      <title>PLATEAU XR ＆ デジタルツイン ハッカソン2024（出雲会場）Day1</title>
+      <link>https://izumo-driven-development.connpass.com/event/325091/</link>
+      <description>Sun, 06 Oct 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:14 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

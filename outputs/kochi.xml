@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>Google Gemini ハンズオン in 高知（Build with AI）</title>
+      <link>https://gdgshikoku.connpass.com/event/314938/</link>
+      <description>Sat, 25 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>JBUG高知#5 チームの生産性を高めるBacklog活用法</title>
+      <link>https://jbug.connpass.com/event/316075/</link>
+      <description>Fri, 17 May 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>Google I/O Extended 2024 in 高知</title>
+      <link>https://gdgshikoku.connpass.com/event/321542/</link>
+      <description>Sat, 13 Jul 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>四国クラウドお遍路 2024 in 高知</title>
+      <link>https://jawsug-sikoku.connpass.com/event/322019/</link>
+      <description>Sat, 07 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>四国クラウドお遍路 2024 in 高知 懇親会</title>
+      <link>https://jawsug-sikoku.connpass.com/event/322829/</link>
+      <description>Sat, 07 Sep 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>高知組み込み会 #7「IoTのT」</title>
+      <link>https://kochi-embedded-meeting.connpass.com/event/323551/</link>
+      <description>Fri, 06 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>JAWS-UG 高知 Vol.14 高知ローカルなAWS活用談義</title>
+      <link>https://jawsug-kochi.connpass.com/event/325449/</link>
+      <description>Fri, 23 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>Gemini AI Study Jam in 高知</title>
+      <link>https://gdgshikoku.connpass.com/event/326201/</link>
+      <description>Sun, 08 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>四国クラウドお遍路 2024 AWS生成AI ハンズオン</title>
+      <link>https://jawsug-sikoku.connpass.com/event/325951/</link>
+      <description>Sat, 07 Sep 2024 15:05:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+    <item>
+      <title>四国クラウドお遍路 2024 ソラカメ＋生成AI ワークショップ</title>
+      <link>https://jawsug-sikoku.connpass.com/event/325947/</link>
+      <description>Sat, 07 Sep 2024 15:05:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:25 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

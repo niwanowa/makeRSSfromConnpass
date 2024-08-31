@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>JBUGおおいた#0 キックオフ 楽しい働き方を追求しよう！</title>
+      <link>https://jbug.connpass.com/event/310608/</link>
+      <description>Fri, 22 Mar 2024 19:15:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>のめりこみプログラミング（初級編）</title>
+      <link>https://nomerikomi-oita.connpass.com/event/321274/</link>
+      <description>Sun, 21 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>のめりこみプログラミング（上級編）</title>
+      <link>https://nomerikomi-oita.connpass.com/event/321276/</link>
+      <description>Tue, 31 Dec 2024 00:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>のめりこみプログラミング（中級編）</title>
+      <link>https://nomerikomi-oita.connpass.com/event/321275/</link>
+      <description>Tue, 31 Dec 2024 00:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>のめりこみプログラミング（超上級編）</title>
+      <link>https://nomerikomi-oita.connpass.com/event/321385/</link>
+      <description>Fri, 07 Jun 2024 00:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>OITA-N Web祭り2024 -懇親会-</title>
+      <link>https://oitan.connpass.com/event/322833/</link>
+      <description>Sat, 10 Aug 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>【現地開催】JAWS-UG おおいた 地方企業がクラウドを活用するヒント</title>
+      <link>https://jawsug-oita.connpass.com/event/325916/</link>
+      <description>Fri, 06 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>GDG Kyushu 木曜もくもく会 vol.4</title>
+      <link>https://gdg9moku.connpass.com/event/328186/</link>
+      <description>Thu, 05 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>GDG Cloud Oita 木曜もくもく会 vol.5</title>
+      <link>https://gdg-cloud-oita.connpass.com/event/328343/</link>
+      <description>Thu, 22 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>GDG Cloud Oita 木曜もくもく会 vol.6</title>
+      <link>https://gdg-cloud-oita.connpass.com/event/328963/</link>
+      <description>Thu, 12 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Meet-up Oita Vol.2</title>
+      <link>https://cfm-cts.connpass.com/event/326062/</link>
+      <description>Sat, 28 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:32 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

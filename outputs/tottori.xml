@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>とっとるびー第５０回</title>
+      <link>https://tottoruby.connpass.com/event/306869/</link>
+      <description>Sat, 30 Mar 2024 14:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>とっとるびー第５１回</title>
+      <link>https://tottoruby.connpass.com/event/318441/</link>
+      <description>Sat, 08 Jun 2024 14:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>とっとるびー第５２回</title>
+      <link>https://tottoruby.connpass.com/event/325177/</link>
+      <description>Sat, 07 Sep 2024 14:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>FOSS4G 山陰 Meetup 2024@砂丘</title>
+      <link>https://osgeojp.connpass.com/event/328184/</link>
+      <description>Sat, 14 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:16 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

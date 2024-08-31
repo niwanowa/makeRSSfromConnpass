@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>Serverless.ts</title>
+      <link>https://kobets.connpass.com/event/325345/</link>
+      <description>Sat, 26 Oct 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>こどもプログラミングまつり「kidsPGフェスいたみ」</title>
+      <link>https://connpass.com/event/326762/</link>
+      <description>Sat, 14 Sep 2024 11:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>Tora-lab.なんか #1 with HACK.BAR</title>
+      <link>https://yumenosora.connpass.com/event/325641/</link>
+      <description>Mon, 09 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>脅威モデリングナイト #4 in Kobe</title>
+      <link>https://threatmodeling.connpass.com/event/326907/</link>
+      <description>Thu, 10 Oct 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>【9/4開催】Code Panda Meetup</title>
+      <link>https://kobecco.connpass.com/event/324390/</link>
+      <description>Wed, 04 Sep 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>第12回 CoderDojo西神</title>
+      <link>https://coderdojoseishin.connpass.com/event/327206/</link>
+      <description>Thu, 08 Aug 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>第60回 CoderDojo猪名川 2024/8/24（土） 14:00～16:30</title>
+      <link>https://coderdojo-inagawa.connpass.com/event/327278/</link>
+      <description>Sat, 24 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>第5回 Generative AI 勉強会 関西 in Microsoft AIラボ 神戸</title>
+      <link>https://connpass.com/event/327133/</link>
+      <description>Wed, 21 Aug 2024 18:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>ハックバー 女性エンジニア限定デー vol.1</title>
+      <link>https://hackbar.connpass.com/event/327634/</link>
+      <description>Tue, 20 Aug 2024 19:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>【三宮】【トーク会】3rd place &amp;quot;meet &amp;amp; create&amp;quot;@HACK.BAR #12</title>
+      <link>https://3rdplace.connpass.com/event/326872/</link>
+      <description>Fri, 23 Aug 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会</title>
+      <link>https://kobe-sannomiya-dev.connpass.com/event/324996/</link>
+      <description>Mon, 16 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo @藤江駅前オアシス  #6</title>
+      <link>https://coderdojofujie.connpass.com/event/327214/</link>
+      <description>Sat, 14 Sep 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>KOBE.go #5 Go 1.23 リリースパーティ同時視聴会</title>
+      <link>https://kobego.connpass.com/event/328042/</link>
+      <description>Tue, 03 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>miibo playground 同時視聴会 in HACK.BAR</title>
+      <link>https://hackbar.connpass.com/event/328362/</link>
+      <description>Sun, 18 Aug 2024 17:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>TypeScript Meet Up #4 - TSKaigi Kansai 前夜</title>
+      <link>https://kobets.connpass.com/event/328535/</link>
+      <description>Fri, 15 Nov 2024 20:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>Hackers&amp;#x27; Meetup #3</title>
+      <link>https://hackbar.connpass.com/event/328565/</link>
+      <description>Sun, 15 Sep 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>高専カンファレンス24s</title>
+      <link>https://kosenconf175-24s.connpass.com/event/328857/</link>
+      <description>Thu, 13 Mar 2025 10:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>【専門学生エンジニア限定】「専門学生エンジニアバー」HACK.BARで初開催！</title>
+      <link>https://kansai-eng-net.connpass.com/event/328904/</link>
+      <description>Sun, 29 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>関西Dev LT Meetup交流会〜Meatを囲んで新しいコミュニティにMeetしよう！〜</title>
+      <link>https://kobe-engr-lab.connpass.com/event/326105/</link>
+      <description>Sat, 28 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>第13回 CoderDojo西神</title>
+      <link>https://coderdojoseishin.connpass.com/event/329612/</link>
+      <description>Wed, 04 Sep 2024 16:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 06:06:12 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
