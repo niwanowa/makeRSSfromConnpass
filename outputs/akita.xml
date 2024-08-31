@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>[東北][秋田][JAWS-UG 秋田]勉強会</title>
+      <link>https://jaws-tohoku.connpass.com/event/321228/</link>
+      <description>Sat, 10 Aug 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>SORACOM UG 東北 #1 in 秋田</title>
+      <link>https://soracomug-tokyo.connpass.com/event/326028/</link>
+      <description>Fri, 13 Sep 2024 19:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:51 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

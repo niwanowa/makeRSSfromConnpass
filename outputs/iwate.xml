@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>IWDD (vol.217) / アイーナ816部屋 14:00〜</title>
+      <link>https://iwdd.connpass.com/event/284506/</link>
+      <description>Sat, 08 Mar 2025 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>IWDD (vol.219) / アイーナ816部屋 14:00〜</title>
+      <link>https://iwdd.connpass.com/event/284508/</link>
+      <description>Sat, 10 May 2025 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>IWDD (vol.224) / アイーナ816部屋 14:00〜</title>
+      <link>https://iwdd.connpass.com/event/302209/</link>
+      <description>Sat, 08 Nov 2025 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>RSGTやスクラムフェスの過去動画を見てワイワイしよう</title>
+      <link>https://morioka-scrum.connpass.com/event/312468/</link>
+      <description>Sat, 23 Mar 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>アジャイル界隈の動画を見てワイワイしよう！</title>
+      <link>https://morioka-scrum.connpass.com/event/315674/</link>
+      <description>Sat, 20 Apr 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>アジャイル界隈の動画を見てワイワイしよう！</title>
+      <link>https://morioka-scrum.connpass.com/event/318952/</link>
+      <description>Sun, 26 May 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>アジャイル界隈の動画を見てワイワイしよう！</title>
+      <link>https://morioka-scrum.connpass.com/event/319095/</link>
+      <description>Sun, 26 May 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>Build with AI - Python SDKを触ってみよう @岩手</title>
+      <link>https://moriokadojo.connpass.com/event/318466/</link>
+      <description>Sun, 19 May 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>[東北][岩手][JAWS-UGいわて]LT会＋生成系AIハンズオン</title>
+      <link>https://jaws-tohoku.connpass.com/event/319205/</link>
+      <description>Sat, 06 Jul 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>スクラムフェス大阪2024を同時視聴してワイワイしよう！</title>
+      <link>https://morioka-scrum.connpass.com/event/321644/</link>
+      <description>Sat, 22 Jun 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>IWDD (vol.231) / アイーナ816部屋 14:00〜</title>
+      <link>https://iwdd.connpass.com/event/321879/</link>
+      <description>Sat, 13 Jun 2026 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>IPPP Iwate 2024: 岩手県立大学同窓生近況報告会</title>
+      <link>https://iputokyo.connpass.com/event/323212/</link>
+      <description>Sun, 11 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>アジャイル界隈の動画を見てワイワイしよう！</title>
+      <link>https://morioka-scrum.connpass.com/event/324447/</link>
+      <description>Sat, 03 Aug 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>SORACOM UG 東北 #2 in 岩手 + JAWS-UG いわて共同開催</title>
+      <link>https://soracomug-tokyo.connpass.com/event/326049/</link>
+      <description>Sat, 14 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>JBUG東北 #1 + JAWS-UGいわて コラボ開催 仕事の&amp;quot;うまい&amp;quot;進め方をシェアしよう！</title>
+      <link>https://jbug.connpass.com/event/326951/</link>
+      <description>Sat, 19 Oct 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>各地のスクラムフェスの動画を見てワイワイしよう！</title>
+      <link>https://morioka-scrum.connpass.com/event/329576/</link>
+      <description>Sat, 14 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:04:47 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

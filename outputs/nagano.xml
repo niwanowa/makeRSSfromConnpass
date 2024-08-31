@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Connpassからのイベント情報</title>
+    <description>Connpassからのイベント情報を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/321076/</link>
+      <description>Sun, 09 Jun 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/321855/</link>
+      <description>Sun, 16 Jun 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>NSEG 2024/06 フリープレゼン大会</title>
+      <link>https://nseg.connpass.com/event/322109/</link>
+      <description>Sat, 22 Jun 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/322569/</link>
+      <description>Sun, 23 Jun 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo長野 第1回</title>
+      <link>https://coderdojo-nagano.connpass.com/event/322562/</link>
+      <description>Sun, 21 Jul 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo飯田#23</title>
+      <link>https://coderdojoiida.connpass.com/event/322792/</link>
+      <description>Mon, 15 Jul 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>kstm LT会【2024/6】</title>
+      <link>https://kstm.connpass.com/event/323195/</link>
+      <description>Wed, 26 Jun 2024 18:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/323278/</link>
+      <description>Sun, 07 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>【懇親会】第11回サイバーセキュリティ勉強会2024夏 in 塩尻</title>
+      <link>https://shiojiri-cyber.connpass.com/event/324500/</link>
+      <description>Sat, 31 Aug 2024 17:45:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/324631/</link>
+      <description>Sun, 14 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>PLATEAU x オープンデータで地域課題を解決するハッカソン</title>
+      <link>https://suwa.connpass.com/event/324312/</link>
+      <description>Sat, 21 Sep 2024 13:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>PLATEAU x Unityハンズオン 2024/08/10</title>
+      <link>https://xr-shinshu.connpass.com/event/321395/</link>
+      <description>Sat, 10 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>NSEG 勉強会 #110 「IT 技術者とカネ」</title>
+      <link>https://nseg.connpass.com/event/325204/</link>
+      <description>Sat, 24 Aug 2024 15:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/325286/</link>
+      <description>Sun, 21 Jul 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo飯田#24</title>
+      <link>https://coderdojoiida.connpass.com/event/325415/</link>
+      <description>Sat, 10 Aug 2024 13:30:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/325871/</link>
+      <description>Sun, 04 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>CoderDojo長野 第2回</title>
+      <link>https://coderdojo-nagano.connpass.com/event/326561/</link>
+      <description>Sun, 22 Sep 2024 14:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>【上田市】8/25(日) ゲーム作り体験会</title>
+      <link>https://s-kidscreate-it-contest.connpass.com/event/326269/</link>
+      <description>Sun, 25 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/327450/</link>
+      <description>Sun, 11 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>もくもく会@駒ヶ根</title>
+      <link>https://connpass.com/event/327955/</link>
+      <description>Sun, 25 Aug 2024 10:00:00 +0900</description>
+      <pubDate>Sat, 31 Aug 2024 05:05:06 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
