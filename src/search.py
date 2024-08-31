@@ -79,6 +79,14 @@ if __name__ == "__main__":
         "ibaraki",
         "tochigi",
         "gunma",
+        "saitama",
+        "chiba",
+        "tokyo",
+        "kanagawa",
+        "yamanashi",
+        "niigata",
+        "nagano",
+        "toyama",
         "online",
     ]
 
