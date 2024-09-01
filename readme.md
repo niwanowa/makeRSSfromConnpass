@@ -2,14 +2,14 @@
 
 ## Description
 
-connpassのイベント情報をスクレイピングして開催都道府県ごとのRSSを作成する
+connpass のイベント情報をスクレイピングして開催都道府県ごとの RSS を作成する
 
 作成されたもの：
-https://niwanowa.github.io/makeRSSfromConnpass/hokkaido.xml
+<https://niwanowa.github.io/makeRSSfromConnpass/hokkaido.xml>
 
 ## Usage
 
-``` bash
+```bash
 poetry install
 poetry run python ./src/search.py
 ```
