@@ -135,7 +135,7 @@ if __name__ == "__main__":
             description = "Connpassからのイベント情報を提供します。"
             ET.SubElement(channel, "title").text = title
             ET.SubElement(channel, "description").text = description
-            ET.SubElement(channel, "link").text = "https://example.com"
+            ET.SubElement(channel, "link").text = "https://niwanowa.github.io/makeRSSfromConnpass/"
 
         xml_pretty_str = search(root, kword)
 
