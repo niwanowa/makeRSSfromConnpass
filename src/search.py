@@ -5,12 +5,13 @@ from xml.dom import minidom
 import os
 import datetime
 
+import json
+from dotenv import load_dotenv
+
+
+load_dotenv()
 
 def search(channel, kwords):
-    event_pattern = re.compile(r'<div class="event_list vevent">([\s\S]*?)<\/div>\s*<\/div>')
-
-    base_url = f"https://connpass.com/search/?start_from=2024%2F03%2F04&prefectures={kwords}&selectItem={kwords}&sort=3"
-    url = base_url
 
     # 現在時刻を取得
     now = datetime.datetime.now()
@@ -20,51 +21,29 @@ def search(channel, kwords):
     for item in root.findall(".//item/link"):
         existing_links.add(item.text)
 
-    print(f"Starting with base URL: {base_url}")
+    # connpass api呼び出し
+    events = fetch_events()
 
-    # スクレイピングを実行
-    headers = {"User-Agent": "Mozilla/5.0"}
-    response = requests.get(url, headers=headers)
-    html_content = response.text
-    print(f"Response status code: {response.status_code}")
+    if events is None:
+        return None
+    
+    for event in events:
+        print(json.dumps(event, indent=4, ensure_ascii=False))
 
-    # イベントリスト取得
-    channel = root.find("channel")
-    found_events = event_pattern.findall(html_content)
+    return None
 
-    for match in found_events[::-1]:
-        event_html = match
-        date = re.search(r'title="(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z)"', event_html).group(1)
-        date = datetime.datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ")
-        # timezoneをUTCからJSTに変換
-        date = date.replace(tzinfo=datetime.timezone.utc)
-        date = date.astimezone(datetime.timezone(datetime.timedelta(hours=9)))
-        title = re.search(r' alt="(.*?)" />', event_html).group(1)
-        link = re.search(
-            r'<p class="event_title"><a class="url summary" href="(https:\/\/[a-zA-Z0-9\-\.\/]+)"', event_html
-        ).group(1)
+def fetch_events():
+    url = os.environ.get("URL") + "/api/v1/event/"
+    params = {"count":5,"order":3}
+    headers = {"User-Agent": "curl/7.81.0"}
+    response = requests.get(url, params=params, headers=headers)
 
-        print(f"Scraped Event: {title}, {link}, {date}")  # タイトルとリンクを出力
-
-        # すでにRSSに存在するリンクの場合はスキップ
-        if link in existing_links:
-            continue
-
-        # RSSのitem要素を追加
-        new_item = ET.SubElement(channel, "item")
-        ET.SubElement(new_item, "title").text = title
-        ET.SubElement(new_item, "link").text = link
-        ET.SubElement(new_item, "description").text = date.strftime("%a, %d %b %Y %H:%M:%S +0900")
-        ET.SubElement(new_item, "pubDate").text = now.strftime("%a, %d %b %Y %H:%M:%S +0900")
-
-    xml_str = ET.tostring(root)
-    # 不正なXML文字を取り除く
-    xml_str = re.sub("[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]", "", xml_str.decode()).encode()
-
-    xml_pretty_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
-    xml_pretty_str = os.linesep.join([s for s in xml_pretty_str.splitlines() if s.strip()])
-
-    return xml_pretty_str
+    if response.status_code == 200:
+        events = response.json()
+        return events
+    else:
+        print(response)
+        return None
 
 
 if __name__ == "__main__":
@@ -120,6 +99,8 @@ if __name__ == "__main__":
     ]
 
     for kword in kwords:
+
+        print (f"Searching for {kword} events...")
         # RSSファイルの読み込み
         output_file = f"./outputs/{kword}.xml"
         existing_links = set()
@@ -139,5 +120,6 @@ if __name__ == "__main__":
 
         xml_pretty_str = search(root, kword)
 
-        with open(output_file, "w") as f:
-            f.write(xml_pretty_str)
+        if xml_pretty_str is not None:
+            with open(output_file, "w") as f:
+                f.write(xml_pretty_str)
