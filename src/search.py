@@ -8,46 +8,7 @@ import datetime
 import json
 from dotenv import load_dotenv
 
-
-load_dotenv()
-
-def search(channel, kwords):
-
-    # 現在時刻を取得
-    now = datetime.datetime.now()
-
-    # 既存のリンクを取得
-    existing_links = set()
-    for item in root.findall(".//item/link"):
-        existing_links.add(item.text)
-
-    # connpass api呼び出し
-    events = fetch_events()
-
-    if events is None:
-        return None
-    
-    for event in events:
-        print(json.dumps(event, indent=4, ensure_ascii=False))
-
-    return None
-
-def fetch_events():
-    url = os.environ.get("URL") + "/api/v1/event/"
-    params = {"count":5,"order":3}
-    headers = {"User-Agent": "curl/7.81.0"}
-    response = requests.get(url, params=params, headers=headers)
-
-    if response.status_code == 200:
-        events = response.json()
-        return events
-    else:
-        print(response)
-        return None
-
-
-if __name__ == "__main__":
-    kwords = [
+kwords = [
         "hokkaido",
         "aomori",
         "iwate",
@@ -97,6 +58,48 @@ if __name__ == "__main__":
         "okinawa",
         "online",
     ]
+
+
+load_dotenv()
+
+def search(channel, kwords):
+
+    # 現在時刻を取得
+    now = datetime.datetime.now()
+
+    # 既存のリンクを取得
+    existing_links = set()
+    for item in root.findall(".//item/link"):
+        existing_links.add(item.text)
+
+    # connpass api呼び出し
+    events = fetch_events()
+
+    if events is None:
+        return None
+    
+    # json形式のレスポンスからevents.eventsを取得
+    events = events["events"]
+    for event in events:
+        print(json.dumps(event, indent=4, ensure_ascii=False))
+
+    return None
+
+def fetch_events():
+    url = os.environ.get("URL") + "/api/v1/event/"
+    params = {"count":5,"order":3}
+    headers = {"User-Agent": "curl/7.81.0"}
+    response = requests.get(url, params=params, headers=headers)
+
+    if response.status_code == 200:
+        events = response.json()
+        return events
+    else:
+        print(response)
+        return None
+
+
+if __name__ == "__main__":
 
     for kword in kwords:
 
