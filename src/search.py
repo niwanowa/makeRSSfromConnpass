@@ -86,8 +86,25 @@ def search(channel, kwords):
     return None
 
 def fetch_events():
+    """
+    Connpass APIを使用して指定されたURLからイベントを取得します。
+
+    この関数は環境変数からURLを構築し、GETリクエストを送信してイベントデータを取得します。
+    403エラーを回避するためにUser-Agentヘッダーを設定します。
+
+    戻り値:
+        list: リクエストが成功した場合（ステータスコード200）、イベントのリストを返します。
+        None: リクエストが失敗した場合。
+
+    例外:
+        requests.exceptions.RequestException: HTTPリクエストに問題がある場合に発生します。
+
+    環境変数:
+        URL (str): Connpass APIのベースURL。
+    """
     url = os.environ.get("URL") + "/api/v1/event/"
     params = {"count":5,"order":3}
+    # User-Agentがpython/requetsになっていると403エラーが発生するため、curlに変更
     headers = {"User-Agent": "curl/7.81.0"}
     response = requests.get(url, params=params, headers=headers)
 
