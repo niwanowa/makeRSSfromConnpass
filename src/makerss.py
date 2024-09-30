@@ -1,12 +1,12 @@
 import requests
-import re
 import xml.etree.ElementTree as ET
-from xml.dom import minidom
 import os
 import datetime
 
 import json
 from dotenv import load_dotenv
+
+import connpass_api
 
 kwords = [
         "hokkaido",
@@ -73,7 +73,7 @@ def search(channel, kwords):
         existing_links.add(item.text)
 
     # connpass api呼び出し
-    events = fetch_events()
+    events = connpass_api.fetch_events(os.getenv("URL"))
 
     if events is None:
         return None
@@ -84,36 +84,6 @@ def search(channel, kwords):
         print(json.dumps(event, indent=4, ensure_ascii=False))
 
     return None
-
-def fetch_events():
-    """
-    Connpass APIを使用して指定されたURLからイベントを取得します。
-
-    この関数は環境変数からURLを構築し、GETリクエストを送信してイベントデータを取得します。
-    403エラーを回避するためにUser-Agentヘッダーを設定します。
-
-    戻り値:
-        list: リクエストが成功した場合（ステータスコード200）、イベントのリストを返します。
-        None: リクエストが失敗した場合。
-
-    例外:
-        requests.exceptions.RequestException: HTTPリクエストに問題がある場合に発生します。
-
-    環境変数:
-        URL (str): Connpass APIのベースURL。
-    """
-    url = os.environ.get("URL") + "/api/v1/event/"
-    params = {"count":5,"order":3}
-    # User-Agentがpython/requetsになっていると403エラーが発生するため、curlに変更
-    headers = {"User-Agent": "curl/7.81.0"}
-    response = requests.get(url, params=params, headers=headers)
-
-    if response.status_code == 200:
-        events = response.json()
-        return events
-    else:
-        print(response)
-        return None
 
 
 if __name__ == "__main__":
