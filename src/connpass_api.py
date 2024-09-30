@@ -1,6 +1,6 @@
 import requests
 
-def fetch_events(hostname : str):
+def fetch_events(hostname = "https://connpass.com"):
     """
     Connpass APIを使用して指定されたホスト名からイベントを取得します。
 
