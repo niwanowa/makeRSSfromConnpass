@@ -40,7 +40,7 @@ def fetch_events(
     if event_id is not None:
         url = url + event_id + "/"
 
-    params: dict[str, str | int] = {
+    params: dict[str, Optional[str | int]] = {
         "event_id": event_id,
         "keyword": keyword,
         "keyword_or": keyword_or,
