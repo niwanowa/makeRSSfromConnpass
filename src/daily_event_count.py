@@ -40,6 +40,6 @@ if __name__ == "__main__":
         else:
             summary[date_hour] = 1
     
-    # 日付ごとのイベント数を出力
-    for date, count in summary.items():
-        print(f"{date} : {count}件")
+    # 日付と時間ごとのイベント数を出力
+    for date_hour, count in summary.items():
+        print(f"{date_hour} : {count}件")
