@@ -25,21 +25,21 @@ if __name__ == "__main__":
 
     if res is None:
         raise ValueError("Failed to fetch events from connpass API")
-    
-    # json形式のレスポンスからevents.eventsを取得
-    events = res["events"]
 
-    summary:dict = dict()
+    # json形式のレスポンスからevents.eventsを取得
+    events: dict[str, str] = res["events"]
+
+    summary: dict = dict()
 
     for event in events:
         updated: datetime = datetime.strptime(event["updated_at"], "%Y-%m-%dT%H:%M:%S%z")
         # dictに日付と時間ごとのイベント数を格納
-        date_hour = updated.strftime("%Y-%m-%d %H:00")
+        date_hour: str = updated.strftime("%Y-%m-%d %H:00")
         if date_hour in summary:
             summary[date_hour] += 1
         else:
             summary[date_hour] = 1
-    
+
     # 日付と時間ごとのイベント数を出力
     for date_hour, count in summary.items():
         print(f"{date_hour} : {count}件")

@@ -2,10 +2,8 @@
 makerss.py
 """
 
-import requests
 import xml.etree.ElementTree as ET
 import os
-import datetime
 
 import json
 from dotenv import load_dotenv
@@ -13,63 +11,61 @@ from dotenv import load_dotenv
 import connpass_api
 
 kwords = [
-        "hokkaido",
-        "aomori",
-        "iwate",
-        "miyagi",
-        "akita",
-        "yamagata",
-        "fukushima",
-        "ibaraki",
-        "tochigi",
-        "gunma",
-        "saitama",
-        "chiba",
-        "tokyo",
-        "kanagawa",
-        "yamanashi",
-        "niigata",
-        "nagano",
-        "toyama",
-        "ishikawa",
-        "fukui",
-        "gifu",
-        "shizuoka",
-        "aichi",
-        "mie",
-        "shiga",
-        "kyoto",
-        "osaka",
-        "nara",
-        "hyogo",
-        "wakayama",
-        "shimane",
-        "tottori",
-        "okayama",
-        "hiroshima",
-        "yamaguchi",
-        "tokushima",
-        "kagawa",
-        "ehime",
-        "kochi",
-        "fukuoka",
-        "saga",
-        "nagasaki",
-        "kumamoto",
-        "oita",
-        "miyazaki",
-        "kagoshima",
-        "okinawa",
-        "online",
-    ]
+    "hokkaido",
+    "aomori",
+    "iwate",
+    "miyagi",
+    "akita",
+    "yamagata",
+    "fukushima",
+    "ibaraki",
+    "tochigi",
+    "gunma",
+    "saitama",
+    "chiba",
+    "tokyo",
+    "kanagawa",
+    "yamanashi",
+    "niigata",
+    "nagano",
+    "toyama",
+    "ishikawa",
+    "fukui",
+    "gifu",
+    "shizuoka",
+    "aichi",
+    "mie",
+    "shiga",
+    "kyoto",
+    "osaka",
+    "nara",
+    "hyogo",
+    "wakayama",
+    "shimane",
+    "tottori",
+    "okayama",
+    "hiroshima",
+    "yamaguchi",
+    "tokushima",
+    "kagawa",
+    "ehime",
+    "kochi",
+    "fukuoka",
+    "saga",
+    "nagasaki",
+    "kumamoto",
+    "oita",
+    "miyazaki",
+    "kagoshima",
+    "okinawa",
+    "online",
+]
 
 
 load_dotenv()
 
-def search(channel, kwords):
 
-    # 現在時刻を取得
-    now = datetime.datetime.now()
+def search(channel, kwords):
 
     # 既存のリンクを取得
     existing_links = set()
@@ -81,7 +77,7 @@ def search(channel, kwords):
 
     if events is None:
         return None
-    
+
     # json形式のレスポンスからevents.eventsを取得
     events = events["events"]
     for event in events:
@@ -94,7 +90,7 @@ if __name__ == "__main__":
 
     for kword in kwords:
 
-        print (f"Searching for {kword} events...")
+        print(f"Searching for {kword} events...")
         # RSSファイルの読み込み
         output_file = f"./outputs/{kword}.xml"
         existing_links = set()
