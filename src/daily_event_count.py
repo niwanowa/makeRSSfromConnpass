@@ -9,7 +9,9 @@ from typing import Optional
 from dotenv import load_dotenv
 
 import connpass_api
-from datetime import datetime
+from datetime import datetime, timedelta
+import csv
+from zoneinfo import ZoneInfo
 
 if __name__ == "__main__":
     load_dotenv()
@@ -25,21 +27,39 @@ if __name__ == "__main__":
 
     if res is None:
         raise ValueError("Failed to fetch events from connpass API")
-    
-    # json形式のレスポンスからevents.eventsを取得
-    events = res["events"]
 
-    summary:dict = dict()
+    # json形式のレスポンスからevents.eventsを取得
+    events: dict[str, str] = res["events"]
+
+    summary: dict = dict()
 
     for event in events:
         updated: datetime = datetime.strptime(event["updated_at"], "%Y-%m-%dT%H:%M:%S%z")
         # dictに日付と時間ごとのイベント数を格納
-        date_hour = updated.strftime("%Y-%m-%d %H:00")
+        date_hour: str = updated.strftime("%Y-%m-%d %H:00")
         if date_hour in summary:
             summary[date_hour] += 1
         else:
             summary[date_hour] = 1
-    
-    # 日付ごとのイベント数を出力
-    for date, count in summary.items():
-        print(f"{date} : {count}件")
+
+    # 日付と時間ごとのイベント数を出力
+    for date_hour, count in summary.items():
+        print(f"{date_hour} : {count}件")
+
+    # 現在の日時を取得し、1時間前の日時を計算
+    now = datetime.now(ZoneInfo("Asia/Tokyo"))
+    one_hour_ago = now - timedelta(hours=1)
+    one_hour_ago_str = one_hour_ago.strftime("%Y-%m-%d %H:00")
+
+    # 1時間前のイベント件数を取得
+    event_count = summary.get(one_hour_ago_str, 0)
+
+    # CSVファイルに保存
+    output_dir = "outputs/event_count"
+    os.makedirs(output_dir, exist_ok=True)
+    csv_file_path = os.path.join(output_dir, "event_count.csv")
+
+    with open(csv_file_path, mode="w", newline="") as csv_file:
+        csv_writer = csv.writer(csv_file)
+        csv_writer.writerow(["datetime", "event_count"])
+        csv_writer.writerow([one_hour_ago_str, event_count])

@@ -3,7 +3,7 @@ connpass_api.py
 """
 
 import requests
-from typing import Any, Optional
+from typing import Optional
 
 
 def fetch_events(
