@@ -13,6 +13,20 @@ from datetime import datetime, timedelta
 import csv
 from zoneinfo import ZoneInfo
 
+def output_csv(hour, event_count):
+    # CSVファイルに追記
+    output_dir = "outputs/event_count"
+    os.makedirs(output_dir, exist_ok=True)
+    csv_file_path = os.path.join(output_dir, "event_count.csv")
+
+    file_exists = os.path.isfile(csv_file_path)
+
+    with open(csv_file_path, mode="a", newline="") as csv_file:
+        csv_writer = csv.writer(csv_file)
+        if not file_exists:
+            csv_writer.writerow(["datetime", "event_count"])
+        csv_writer.writerow([event_count, hour])
+
 if __name__ == "__main__":
     load_dotenv()
 
@@ -51,18 +65,8 @@ if __name__ == "__main__":
     two_hour_ago = now - timedelta(hours=2)
     two_hour_ago_str = two_hour_ago.strftime("%Y-%m-%d %H:00")
 
-    # 1時間前のイベント件数を取得
+    # 2時間前のイベント件数を取得
     event_count = summary.get(two_hour_ago_str, 0)
 
     # CSVファイルに追記
-    output_dir = "outputs/event_count"
-    os.makedirs(output_dir, exist_ok=True)
-    csv_file_path = os.path.join(output_dir, "event_count.csv")
-
-    file_exists = os.path.isfile(csv_file_path)
-
-    with open(csv_file_path, mode="a", newline="") as csv_file:
-        csv_writer = csv.writer(csv_file)
-        if not file_exists:
-            csv_writer.writerow(["datetime", "event_count"])
-        csv_writer.writerow([two_hour_ago_str, event_count])
+    output_csv(event_count, two_hour_ago_str)
