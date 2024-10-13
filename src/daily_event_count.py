@@ -13,13 +13,28 @@ from datetime import datetime, timedelta
 import csv
 from zoneinfo import ZoneInfo
 
-def output_csv(hour, event_count):
-    # CSVファイルに追記
-    output_dir = "outputs/event_count"
-    os.makedirs(output_dir, exist_ok=True)
-    csv_file_path = os.path.join(output_dir, "event_count.csv")
+def output_csv(event_count: int, hour: str) -> None:
+    """
+    イベント数と時間をCSVファイルに追記します。
 
-    file_exists = os.path.isfile(csv_file_path)
+    この関数は、出力ディレクトリが存在しない場合に作成し、
+    提供されたイベント数と時間を"outputs/event_count"ディレクトリ内の
+    "event_count.csv"という名前のCSVファイルに追記します。CSVファイルが
+    存在しない場合、ファイルを作成し、ヘッダー行を書き込みます。
+
+    引数:
+        hour (str): イベント数が記録された時間。
+        event_count (int): 記録されたイベント数。
+
+    例外:
+        OSError: 出力ディレクトリの作成やCSVファイルへの書き込みに
+                 問題がある場合に発生します。
+    """
+    # CSVファイルに追記
+    output_dir: str = "outputs/event_count"
+    csv_file_path: str = os.path.join(output_dir, "event_count.csv")
+
+    file_exists: bool = os.path.isfile(csv_file_path)
 
     with open(csv_file_path, mode="a", newline="") as csv_file:
         csv_writer = csv.writer(csv_file)
@@ -43,14 +58,14 @@ if __name__ == "__main__":
         raise ValueError("Failed to fetch events from connpass API")
 
     # json形式のレスポンスからevents.eventsを取得
-    events: dict[str, str] = res["events"]
+    events: list[dict[str, str]] = res["events"]
 
     summary: dict = dict()
 
     for event in events:
         updated: datetime = datetime.strptime(event["updated_at"], "%Y-%m-%dT%H:%M:%S%z")
         # dictに日付と時間ごとのイベント数を格納
-        date_hour: str = updated.strftime("%Y-%m-%d %H:00")
+        date_hour = updated.strftime("%Y-%m-%d %H:00")
         if date_hour in summary:
             summary[date_hour] += 1
         else:
